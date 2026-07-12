@@ -1,19 +1,12 @@
-AGGIORNAMENTO V16 — SCHEDE LATERALI UNIFORMATE
+CORREZIONE V17 — SOLO COPERTINE
 
-Sono state aggiornate tutte le 81 pagine delle artiste.
+Caterina Vigri:
+assets/img/uploaded/caterina-vigri-copertina-v17.jpg
 
-Ogni scheda laterale ora contiene:
-- Nascita
-- Morte
-- Nazionalità
-- Luoghi di attività
-- Corrente / ambito artistico
+Antonia Doni:
+assets/img/uploaded/antonia-doni-copertina-v17.jpg
 
-Sono stati conservati i dati completi già verificati nelle pagine precedenti.
-Quando il luogo preciso non era ancora disponibile nei materiali del sito, è indicato
-esplicitamente “luogo da verificare” o “da integrare con dati verificati”, senza inventare informazioni.
+Sono aggiornate anche le due pagine personali e data/artists.json.
+I nuovi nomi dei file evitano che il browser mostri ancora le vecchie immagini dalla cache.
 
-Inclusa anche la videopresentazione Canva di Maria Lai:
-https://canva.link/g2olbdpiqy8ms4d
-
-Caricare la cartella artiste completa e data/artists.json, sostituendo i file esistenti.
+Caricare tutto mantenendo le cartelle e sostituendo i file esistenti.
