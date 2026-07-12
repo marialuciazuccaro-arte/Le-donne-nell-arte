@@ -1,26 +1,14 @@
-AGGIORNAMENTO V21 — IMMAGINI AGGIUNTIVE + VIDEOPRESENTAZIONE GUNTA STÖLZL
+AGGIORNAMENTO V22 — COPERTINE CATERINA VIGRI E ANTONIA DONI
 
-Contenuto dell’aggiornamento:
+Questo aggiornamento corregge le immagini di copertina delle due schede:
+- Caterina Vigri
+- Antonia Doni
 
-1) Videopresentazione aggiunta
-- Gunta Stölzl → https://canva.link/ax8yu2nuv5yn7zq
+File inclusi:
+- artiste/caterina-vigri.html
+- artiste/antonia-doni.html
+- data/artists.json
+- assets/img/uploaded/caterina-vigri-copertina.jpg
+- assets/img/uploaded/antonia-doni-copertina.jpg
 
-2) Nuove immagini aggiunte nelle schede
-- Niki de Saint Phalle:
-  - ritratto fotografico verificato dell’artista
-  - Il Giardino dei Tarocchi
-  - scultura "Nana" blu
-- Lavinia Fontana:
-  - ritratto femminile usato come immagine di copertina
-  - tre immagini aggiuntive di opere/soggetti sacri
-- Fede Galizia:
-  - Giuditta con la testa di Oloferne come immagine principale della scheda
-
-3) File aggiornati inclusi dal pacchetto precedente
-Per comodità questo pacchetto mantiene anche gli aggiornamenti già predisposti nel pacchetto v20:
-- videopresentazioni di Sofonisba Anguissola, Juana Romani, Margarete Heymann
-- link di approfondimento Arte Svelata nelle pagine pertinenti
-
-ISTRUZIONI
-- Carica tutti i file mantenendo le cartelle.
-- Sostituisci i file esistenti quando richiesto.
+Carica tutte le cartelle mantenendo la struttura e sostituisci i file esistenti.
