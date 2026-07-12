@@ -1,8 +1,13 @@
-AGGIORNAMENTO V9 – CATERINA VIGRI, LAVINIA FONTANA E GALLERIA
+AGGIORNAMENTO V10
 
-1. Decomprimi questo ZIP.
-2. Carica su GitHub tutto il contenuto mantenendo le cartelle.
-3. Sostituisci i file già esistenti.
-4. Attendi 1–2 minuti e ricarica il sito con Cmd+Shift+R.
+Correzioni incluse:
+- rimossa dalla scheda di Caterina Vigri l'immagine attribuita ad Antonia Doni;
+- nuova immagine di copertina per Caterina Vigri;
+- aggiunta videopresentazione di Sam Taylor-Wood / Sam Taylor-Johnson;
+- aggiunta videopresentazione di Lady Pink;
+- aggiunta videopresentazione di Properzia de' Rossi;
+- aggiunta videopresentazione di Antonia Doni;
+- mantenuto il link di Yayoi Kusama nel file dati;
+- corretta anche la miniatura di Caterina nella galleria.
 
-Questo aggiornamento contiene 12 file: tre schede, la galleria, il CSS e sette immagini.
+Caricare tutto il contenuto mantenendo le cartelle e sostituendo i file esistenti.
