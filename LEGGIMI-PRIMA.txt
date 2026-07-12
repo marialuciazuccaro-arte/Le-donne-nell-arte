@@ -1,12 +1,25 @@
-AGGIORNAMENTO V18 — RIMOZIONE COPERTINA DI CATERINA VIGRI
+AGGIORNAMENTO V20 — VIDEOPRESENTAZIONI + LINK ARTE SVELATA
 
-La copertina di Caterina Vigri è stata eliminata:
-- dalla pagina personale;
-- dall'indice delle artiste;
-- dal file data/artists.json;
-- dalla timeline, dove compare un segnaposto con la lettera C;
-- dalla galleria.
+Videopresentazioni aggiunte:
+- Sofonisba Anguissola → https://canva.link/b6mt2whma5p3vcm
+- Juana Romani → https://canva.link/lvw6nypd6hy1l28
+- Margarete Heymann (indicata nel messaggio come “Heyrman”) → https://canva.link/8zbrt3kzrmqqaii
 
-Le altre immagini storiche presenti più in basso nella pagina di Caterina non sono state eliminate.
+Link ad Arte Svelata aggiunti nelle pagine delle artiste, dove il sito offriva un articolo chiaramente pertinente:
+- Antonia Doni
+- Marietta Robusti
+- Sofonisba Anguissola
+- Lavinia Fontana
+- Fede Galizia
+- Artemisia Gentileschi
+- Berthe Morisot
+- Mary Cassatt
+- Eva Gonzalès
+- Georgia O’Keeffe
+- Leonora Carrington
+- Dorothea Tanning
+- Marina Abramović
+
+Non sono stati aggiunti link Arte Svelata a Juana Romani e Margarete Heymann perché non è stata individuata una monografia chiaramente dedicata a loro.
 
 Caricare tutti i file mantenendo le cartelle e sostituendo quelli esistenti.
