@@ -1,36 +1,10 @@
-AGGIORNAMENTO V26 — PROPERZIA DE’ ROSSI
+AGGIORNAMENTO V31 — LAVINIA FONTANA
 
-Contenuti:
-- nuova copertina locale;
-- dati biografici e artistici aggiornati;
-- aggiunte immagini di opere, intagli e ritratti storici;
-- aggiornati indice artiste, pagina XV secolo, timeline, galleria,
-  artists.json e timelinejs_all.csv;
-- mantenute le correzioni precedenti presenti nella base v25.
+Correzioni incluse:
+- scheda di Lavinia Fontana riscritta con il testo fornito;
+- utilizzate esclusivamente le tre immagini originali caricate dall’utente;
+- ripristinato e mantenuto lo spazio per la videopresentazione degli alunni;
+- immagine principale contenuta, senza ingrandimenti eccessivi;
+- aggiornati indice artiste, pagina XVI secolo, galleria, timeline e file dati.
 
 Caricare tutti i file mantenendo le cartelle e sostituendo quelli esistenti.
-
-
-AGGIORNAMENTO V27 — PLAUTILLA NELLI
-- aggiunta scheda aggiornata di Plautilla Nelli
-- aggiunte immagini locali delle opere
-- aggiornata la copertina e i riferimenti in artiste, XVI secolo, galleria, timeline e file dati.
-
-
-AGGIORNAMENTO V28 — SOFONISBA ANGUISSOLA
-- aggiunta la scheda dedicata a Sofonisba Anguissola;
-- aggiunte 4 immagini locali;
-- aggiornata copertina e descrizioni in artiste, galleria, timeline, XVI secolo e file dati;
-- aggiunto il link alla videopresentazione Canva.
-
-
-AGGIORNAMENTO V29 — DIANA MANTOVANA
-- aggiunta la scheda dedicata a Diana Mantovana (Diana Scultori / Diana Mantuana);
-- aggiunte 3 immagini locali;
-- aggiornata copertina e descrizioni in artiste, galleria, timeline, XVI secolo e file dati;
-- corretto l’uso di un’immagine remota non coerente sostituendola con file locali del progetto.
-
-
-CORREZIONE V30 — DIANA MANTOVANA
-- ridotta la dimensione dell’immagine principale;
-- ripristinato lo spazio standard per la videopresentazione realizzata dagli alunni.
