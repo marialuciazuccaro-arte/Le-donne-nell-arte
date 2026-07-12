@@ -1,13 +1,2 @@
-AGGIORNAMENTO V10
-
-Correzioni incluse:
-- rimossa dalla scheda di Caterina Vigri l'immagine attribuita ad Antonia Doni;
-- nuova immagine di copertina per Caterina Vigri;
-- aggiunta videopresentazione di Sam Taylor-Wood / Sam Taylor-Johnson;
-- aggiunta videopresentazione di Lady Pink;
-- aggiunta videopresentazione di Properzia de' Rossi;
-- aggiunta videopresentazione di Antonia Doni;
-- mantenuto il link di Yayoi Kusama nel file dati;
-- corretta anche la miniatura di Caterina nella galleria.
-
-Caricare tutto il contenuto mantenendo le cartelle e sostituendo i file esistenti.
+Correzione v11: aggiunta l'immagine di copertina di Lavinia Fontana nell'indice delle artiste e nel file dati.
+Decomprimere e caricare tutto mantenendo le cartelle, sostituendo i file esistenti.
