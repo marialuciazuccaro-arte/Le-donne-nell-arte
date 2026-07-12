@@ -1,0 +1,149 @@
+{
+  "project": {
+    "title": "Le donne nell’arte",
+    "subtitle": "Educazione civica 2025–2026 · Classi terze",
+    "school": "I.C. Piero Angela · Roma",
+    "dedication": "A tutte le donne della storia dell’arte che non sono state considerate, affinché la vostra voce si possa sentire e la vostra arte conoscere. A voi che non vi siete arrese è dedicato questo sito e a voi che lo guardate, affinché possiate diffondere le loro storie.",
+    "intro": "Un percorso attraverso epoche diverse per restituire voce e visibilità alle artiste rimaste troppo spesso ai margini della storia dell’arte."
+  },
+  "periods": [
+    "Quattrocento",
+    "Cinquecento",
+    "Seicento",
+    "Settecento",
+    "Ottocento",
+    "Primo Novecento",
+    "Secondo Novecento",
+    "Contemporanee"
+  ],
+  "artists": [
+    {
+      "name": "Caterina Vigri",
+      "dates": "1413–1463",
+      "period": "Quattrocento",
+      "slug": "caterina-vigri",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Antonia Doni",
+      "dates": "1446–1491",
+      "period": "Quattrocento",
+      "slug": "antonia-doni",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Properzia de’ Rossi",
+      "dates": "1490–1530",
+      "period": "Quattrocento",
+      "slug": "properzia-de-rossi",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Plautilla Nelli",
+      "dates": "1524–1588",
+      "period": "Cinquecento",
+      "slug": "plautilla-nelli",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Sofonisba Anguissola",
+      "dates": "1531–1625",
+      "period": "Cinquecento",
+      "slug": "sofonisba-anguissola",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Diana Mantovana",
+      "dates": "1547–1612",
+      "period": "Cinquecento",
+      "slug": "diana-mantovana",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Lavinia Fontana",
+      "dates": "1552–1614",
+      "period": "Cinquecento",
+      "slug": "lavinia-fontana",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Barbara Longhi",
+      "dates": "1552–1638",
+      "period": "Cinquecento",
+      "slug": "barbara-longhi",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Fede Galizia",
+      "dates": "1578–1630",
+      "period": "Cinquecento",
+      "slug": "fede-galizia",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Artemisia Gentileschi",
+      "dates": "1593–1653",
+      "period": "Cinquecento",
+      "slug": "artemisia-gentileschi",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Clara Peeters",
+      "dates": "1594–1659",
+      "period": "Cinquecento",
+      "slug": "clara-peeters",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Giovanna Garzoni",
+      "dates": "1600–1670",
+      "period": "Seicento",
+      "slug": "giovanna-garzoni",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Plautilla Bricci",
+      "dates": "1616–1705",
+      "period": "Seicento",
+      "slug": "plautilla-bricci",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Mary Beale",
+      "dates": "1633–1699",
+      "period": "Seicento",
+      "slug": "mary-beale",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Elisabetta Sirani",
+      "dates": "1638–1665",
+      "period": "Seicento",
+      "slug": "elisabetta-sirani",
+      "video_url": "",
+      "image": ""
+    },
+    {
+      "name": "Rosalba Carriera",
+      "dates": "1673–1757",
+      "period": "Seicento",
+      "slug": "rosalba-carriera",
+      "video_url": "",
+      "image": ""
+    }
+  ]
+}

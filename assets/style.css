@@ -1,0 +1,43 @@
+:root{
+  --ink:#2e2521;
+  --paper:#fbf7f2;
+  --cream:#efe2d3;
+  --accent:#8b3f4b;
+  --accent-dark:#642c36;
+  --gold:#b08a55;
+  --line:rgba(46,37,33,.16);
+  --shadow:0 18px 45px rgba(46,37,33,.12);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font-family:Georgia,"Times New Roman",serif;color:var(--ink);background:var(--paper);line-height:1.65}
+.site-header{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;padding:14px clamp(18px,4vw,64px);background:rgba(251,247,242,.94);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.brand{font-weight:700;color:var(--ink);text-decoration:none;font-size:1.15rem}
+.main-nav{display:flex;gap:24px}.main-nav a{color:var(--ink);text-decoration:none}.main-nav a:hover{color:var(--accent)}
+.menu-button{display:none;border:0;background:none;font-size:1.5rem}
+.hero{min-height:68vh;display:grid;place-items:center;text-align:center;padding:48px 20px;background:linear-gradient(135deg,rgba(100,44,54,.95),rgba(139,63,75,.78)),radial-gradient(circle at top right,#d5b991,transparent 44%)}
+.hero-overlay{max-width:850px;color:white}
+.hero h1{font-size:clamp(3rem,8vw,6.5rem);line-height:.95;margin:.18em 0}
+.eyebrow{text-transform:uppercase;letter-spacing:.18em;font:600 .78rem/1.4 Arial,sans-serif}
+.school{font-size:1.1rem}
+.primary-button{display:inline-block;margin-top:24px;padding:12px 22px;background:white;color:var(--accent-dark);text-decoration:none;border-radius:999px;font-family:Arial,sans-serif;font-weight:700}
+.section{width:min(1120px,calc(100% - 36px));margin:auto;padding:82px 0}
+.intro-section{max-width:860px;text-align:center}
+.dedication{font-size:clamp(1.35rem,3vw,2rem);font-style:italic}
+.section-heading h2{font-size:clamp(2.2rem,5vw,4rem);margin:0 0 30px}
+.period-grid,.artist-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px}
+.period-card,.artist-card{border:1px solid var(--line);background:white;border-radius:18px;padding:24px;box-shadow:var(--shadow)}
+.period-card{min-height:150px;display:flex;flex-direction:column;justify-content:end;background:linear-gradient(145deg,var(--cream),white)}
+.period-card h3,.artist-card h3{margin:0}
+.artist-card button{margin-top:18px;border:0;border-bottom:1px solid currentColor;background:none;color:var(--accent-dark);padding:0;font:700 .95rem Arial,sans-serif;cursor:pointer}
+.filters{margin-bottom:26px;font-family:Arial,sans-serif}.filters select{margin-left:10px;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:white}
+dialog{width:min(720px,calc(100% - 28px));border:0;border-radius:20px;padding:0;box-shadow:0 28px 80px rgba(0,0,0,.3)}
+dialog::backdrop{background:rgba(27,19,18,.68)}
+#dialog-content{padding:48px}.dialog-close{position:absolute;right:16px;top:12px;border:0;background:none;font-size:2rem;cursor:pointer}
+.video-button{display:inline-block;margin-top:18px;padding:11px 17px;border-radius:999px;background:var(--accent);color:white;text-decoration:none;font-family:Arial,sans-serif;font-weight:700}
+.video-missing{margin-top:18px;padding:14px;background:var(--cream);border-radius:10px}
+footer{text-align:center;padding:42px 20px;background:var(--ink);color:white;font-size:.9rem}
+@media(max-width:700px){
+  .menu-button{display:block}.main-nav{display:none;position:absolute;right:18px;top:58px;flex-direction:column;background:white;padding:18px;border-radius:12px;box-shadow:var(--shadow)}
+  .main-nav.open{display:flex}.hero{min-height:60vh}.section{padding:58px 0}.filters select{display:block;margin:8px 0 0;width:100%}
+}
