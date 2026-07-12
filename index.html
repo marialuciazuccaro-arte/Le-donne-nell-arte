@@ -5,7 +5,51 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Le donne nell’arte – lavori delle classi terze dell’I.C. Piero Angela">
   <title>Le donne nell’arte</title>
-  <link rel="stylesheet" href="assets/style.css">
+  <style>
+:root{
+  --ink:#2e2521;
+  --paper:#fbf7f2;
+  --cream:#efe2d3;
+  --accent:#8b3f4b;
+  --accent-dark:#642c36;
+  --gold:#b08a55;
+  --line:rgba(46,37,33,.16);
+  --shadow:0 18px 45px rgba(46,37,33,.12);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font-family:Georgia,"Times New Roman",serif;color:var(--ink);background:var(--paper);line-height:1.65}
+.site-header{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;padding:14px clamp(18px,4vw,64px);background:rgba(251,247,242,.94);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.brand{font-weight:700;color:var(--ink);text-decoration:none;font-size:1.15rem}
+.main-nav{display:flex;gap:24px}.main-nav a{color:var(--ink);text-decoration:none}.main-nav a:hover{color:var(--accent)}
+.menu-button{display:none;border:0;background:none;font-size:1.5rem}
+.hero{min-height:68vh;display:grid;place-items:center;text-align:center;padding:48px 20px;background:linear-gradient(135deg,rgba(100,44,54,.95),rgba(139,63,75,.78)),radial-gradient(circle at top right,#d5b991,transparent 44%)}
+.hero-overlay{max-width:850px;color:white}
+.hero h1{font-size:clamp(3rem,8vw,6.5rem);line-height:.95;margin:.18em 0}
+.eyebrow{text-transform:uppercase;letter-spacing:.18em;font:600 .78rem/1.4 Arial,sans-serif}
+.school{font-size:1.1rem}
+.primary-button{display:inline-block;margin-top:24px;padding:12px 22px;background:white;color:var(--accent-dark);text-decoration:none;border-radius:999px;font-family:Arial,sans-serif;font-weight:700}
+.section{width:min(1120px,calc(100% - 36px));margin:auto;padding:82px 0}
+.intro-section{max-width:860px;text-align:center}
+.dedication{font-size:clamp(1.35rem,3vw,2rem);font-style:italic}
+.section-heading h2{font-size:clamp(2.2rem,5vw,4rem);margin:0 0 30px}
+.period-grid,.artist-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px}
+.period-card,.artist-card{border:1px solid var(--line);background:white;border-radius:18px;padding:24px;box-shadow:var(--shadow)}
+.period-card{min-height:150px;display:flex;flex-direction:column;justify-content:end;background:linear-gradient(145deg,var(--cream),white)}
+.period-card h3,.artist-card h3{margin:0}
+.artist-card button{margin-top:18px;border:0;border-bottom:1px solid currentColor;background:none;color:var(--accent-dark);padding:0;font:700 .95rem Arial,sans-serif;cursor:pointer}
+.filters{margin-bottom:26px;font-family:Arial,sans-serif}.filters select{margin-left:10px;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:white}
+dialog{width:min(720px,calc(100% - 28px));border:0;border-radius:20px;padding:0;box-shadow:0 28px 80px rgba(0,0,0,.3)}
+dialog::backdrop{background:rgba(27,19,18,.68)}
+#dialog-content{padding:48px}.dialog-close{position:absolute;right:16px;top:12px;border:0;background:none;font-size:2rem;cursor:pointer}
+.video-button{display:inline-block;margin-top:18px;padding:11px 17px;border-radius:999px;background:var(--accent);color:white;text-decoration:none;font-family:Arial,sans-serif;font-weight:700}
+.video-missing{margin-top:18px;padding:14px;background:var(--cream);border-radius:10px}
+footer{text-align:center;padding:42px 20px;background:var(--ink);color:white;font-size:.9rem}
+@media(max-width:700px){
+  .menu-button{display:block}.main-nav{display:none;position:absolute;right:18px;top:58px;flex-direction:column;background:white;padding:18px;border-radius:12px;box-shadow:var(--shadow)}
+  .main-nav.open{display:flex}.hero{min-height:60vh}.section{padding:58px 0}.filters select{display:block;margin:8px 0 0;width:100%}
+}
+  </style>
 </head>
 <body>
 <header class="site-header">
@@ -64,6 +108,85 @@
   <p>Progetto didattico delle classi terze</p>
 </footer>
 
-<script src="assets/app.js"></script>
+<script>
+const embeddedData = {"project": {"title": "Le donne nell’arte", "subtitle": "Educazione civica 2025–2026 · Classi terze", "school": "I.C. Piero Angela · Roma", "dedication": "A tutte le donne della storia dell’arte che non sono state considerate, affinché la vostra voce si possa sentire e la vostra arte conoscere. A voi che non vi siete arrese è dedicato questo sito e a voi che lo guardate, affinché possiate diffondere le loro storie.", "intro": "Un percorso attraverso epoche diverse per restituire voce e visibilità alle artiste rimaste troppo spesso ai margini della storia dell’arte."}, "periods": ["Quattrocento", "Cinquecento", "Seicento", "Settecento", "Ottocento", "Primo Novecento", "Secondo Novecento", "Contemporanee"], "artists": [{"name": "Caterina Vigri", "dates": "1413–1463", "period": "Quattrocento", "slug": "caterina-vigri", "video_url": "", "image": ""}, {"name": "Antonia Doni", "dates": "1446–1491", "period": "Quattrocento", "slug": "antonia-doni", "video_url": "", "image": ""}, {"name": "Properzia de’ Rossi", "dates": "1490–1530", "period": "Quattrocento", "slug": "properzia-de-rossi", "video_url": "", "image": ""}, {"name": "Plautilla Nelli", "dates": "1524–1588", "period": "Cinquecento", "slug": "plautilla-nelli", "video_url": "", "image": ""}, {"name": "Sofonisba Anguissola", "dates": "1531–1625", "period": "Cinquecento", "slug": "sofonisba-anguissola", "video_url": "", "image": ""}, {"name": "Diana Mantovana", "dates": "1547–1612", "period": "Cinquecento", "slug": "diana-mantovana", "video_url": "", "image": ""}, {"name": "Lavinia Fontana", "dates": "1552–1614", "period": "Cinquecento", "slug": "lavinia-fontana", "video_url": "", "image": ""}, {"name": "Barbara Longhi", "dates": "1552–1638", "period": "Cinquecento", "slug": "barbara-longhi", "video_url": "", "image": ""}, {"name": "Fede Galizia", "dates": "1578–1630", "period": "Cinquecento", "slug": "fede-galizia", "video_url": "", "image": ""}, {"name": "Artemisia Gentileschi", "dates": "1593–1653", "period": "Cinquecento", "slug": "artemisia-gentileschi", "video_url": "", "image": ""}, {"name": "Clara Peeters", "dates": "1594–1659", "period": "Cinquecento", "slug": "clara-peeters", "video_url": "", "image": ""}, {"name": "Giovanna Garzoni", "dates": "1600–1670", "period": "Seicento", "slug": "giovanna-garzoni", "video_url": "", "image": ""}, {"name": "Plautilla Bricci", "dates": "1616–1705", "period": "Seicento", "slug": "plautilla-bricci", "video_url": "", "image": ""}, {"name": "Mary Beale", "dates": "1633–1699", "period": "Seicento", "slug": "mary-beale", "video_url": "", "image": ""}, {"name": "Elisabetta Sirani", "dates": "1638–1665", "period": "Seicento", "slug": "elisabetta-sirani", "video_url": "", "image": ""}, {"name": "Rosalba Carriera", "dates": "1673–1757", "period": "Seicento", "slug": "rosalba-carriera", "video_url": "", "image": ""}]};
+
+const state = { data: embeddedData };
+
+function init(){
+  const p = state.data.project;
+  document.querySelector('#title').textContent = p.title;
+  document.querySelector('#subtitle').textContent = p.subtitle;
+  document.querySelector('#school').textContent = p.school;
+  document.querySelector('#dedication').textContent = p.dedication;
+  document.querySelector('#intro').textContent = p.intro;
+
+  renderPeriods();
+  fillFilter();
+  renderArtists();
+
+  const menuButton = document.querySelector('.menu-button');
+  const nav = document.querySelector('.main-nav');
+  menuButton.addEventListener('click', () => {
+    const open = nav.classList.toggle('open');
+    menuButton.setAttribute('aria-expanded', String(open));
+  });
+
+  document.querySelector('#period-filter').addEventListener('change', renderArtists);
+  document.querySelector('.dialog-close').addEventListener('click', () => document.querySelector('#artist-dialog').close());
+}
+
+function renderPeriods(){
+  const grid = document.querySelector('#period-grid');
+  grid.innerHTML = state.data.periods.map(period => {
+    const total = state.data.artists.filter(a => a.period === period).length;
+    return `<article class="period-card"><p class="eyebrow">${total ? `${total} artiste` : 'in preparazione'}</p><h3>${period}</h3></article>`;
+  }).join('');
+}
+
+function fillFilter(){
+  const select = document.querySelector('#period-filter');
+  state.data.periods.forEach(period => {
+    const option = document.createElement('option');
+    option.value = period;
+    option.textContent = period;
+    select.append(option);
+  });
+}
+
+function renderArtists(){
+  const filter = document.querySelector('#period-filter').value;
+  const artists = state.data.artists.filter(a => !filter || a.period === filter);
+  document.querySelector('#artist-grid').innerHTML = artists.map(a => `
+    <article class="artist-card">
+      <p class="eyebrow">${a.period}</p>
+      <h3>${a.name}</h3>
+      <p>${a.dates}</p>
+      <button type="button" data-index="${state.data.artists.indexOf(a)}">Apri la scheda</button>
+    </article>`).join('');
+
+  document.querySelectorAll('.artist-card button').forEach(button => {
+    button.addEventListener('click', () => openArtist(Number(button.dataset.index)));
+  });
+}
+
+function openArtist(index){
+  const a = state.data.artists[index];
+  const video = a.video_url
+    ? `<a class="video-button" href="${a.video_url}" target="_blank" rel="noopener">Guarda la videopresentazione</a>`
+    : `<p class="video-missing">Videopresentazione non ancora collegata.</p>`;
+
+  document.querySelector('#dialog-content').innerHTML = `
+    <p class="eyebrow">${a.period}</p>
+    <h2>${a.name}</h2>
+    <p><strong>${a.dates}</strong></p>
+    <p>Questa scheda è predisposta per accogliere il testo e le immagini del lavoro degli studenti.</p>
+    ${video}`;
+  document.querySelector('#artist-dialog').showModal();
+}
+
+init();
+
+</script>
 </body>
 </html>
