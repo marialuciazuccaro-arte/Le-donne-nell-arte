@@ -1,25 +1,26 @@
-AGGIORNAMENTO V20 — VIDEOPRESENTAZIONI + LINK ARTE SVELATA
+AGGIORNAMENTO V21 — IMMAGINI AGGIUNTIVE + VIDEOPRESENTAZIONE GUNTA STÖLZL
 
-Videopresentazioni aggiunte:
-- Sofonisba Anguissola → https://canva.link/b6mt2whma5p3vcm
-- Juana Romani → https://canva.link/lvw6nypd6hy1l28
-- Margarete Heymann (indicata nel messaggio come “Heyrman”) → https://canva.link/8zbrt3kzrmqqaii
+Contenuto dell’aggiornamento:
 
-Link ad Arte Svelata aggiunti nelle pagine delle artiste, dove il sito offriva un articolo chiaramente pertinente:
-- Antonia Doni
-- Marietta Robusti
-- Sofonisba Anguissola
-- Lavinia Fontana
-- Fede Galizia
-- Artemisia Gentileschi
-- Berthe Morisot
-- Mary Cassatt
-- Eva Gonzalès
-- Georgia O’Keeffe
-- Leonora Carrington
-- Dorothea Tanning
-- Marina Abramović
+1) Videopresentazione aggiunta
+- Gunta Stölzl → https://canva.link/ax8yu2nuv5yn7zq
 
-Non sono stati aggiunti link Arte Svelata a Juana Romani e Margarete Heymann perché non è stata individuata una monografia chiaramente dedicata a loro.
+2) Nuove immagini aggiunte nelle schede
+- Niki de Saint Phalle:
+  - ritratto fotografico verificato dell’artista
+  - Il Giardino dei Tarocchi
+  - scultura "Nana" blu
+- Lavinia Fontana:
+  - ritratto femminile usato come immagine di copertina
+  - tre immagini aggiuntive di opere/soggetti sacri
+- Fede Galizia:
+  - Giuditta con la testa di Oloferne come immagine principale della scheda
 
-Caricare tutti i file mantenendo le cartelle e sostituendo quelli esistenti.
+3) File aggiornati inclusi dal pacchetto precedente
+Per comodità questo pacchetto mantiene anche gli aggiornamenti già predisposti nel pacchetto v20:
+- videopresentazioni di Sofonisba Anguissola, Juana Romani, Margarete Heymann
+- link di approfondimento Arte Svelata nelle pagine pertinenti
+
+ISTRUZIONI
+- Carica tutti i file mantenendo le cartelle.
+- Sostituisci i file esistenti quando richiesto.
