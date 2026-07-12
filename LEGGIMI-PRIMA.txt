@@ -1,11 +1,19 @@
-AGGIORNAMENTO V14
+AGGIORNAMENTO V16 — SCHEDE LATERALI UNIFORMATE
 
-Correzioni:
-- Caterina Vigri: nuova immagine corretta di copertina.
-- Antonia Doni: nuova immagine corretta nella scheda.
-- Timeline: immagini di Caterina e Antonia corrette.
-- Galleria: immagini di Caterina e Antonia corrette.
-- Niki de Saint Phalle: video MP4 incorporato nella pagina.
+Sono state aggiornate tutte le 81 pagine delle artiste.
 
-Caricare tutto mantenendo esattamente le cartelle e sostituendo i file esistenti.
-Il video si trova in assets/video/niki-de-saint-phalle.mp4.
+Ogni scheda laterale ora contiene:
+- Nascita
+- Morte
+- Nazionalità
+- Luoghi di attività
+- Corrente / ambito artistico
+
+Sono stati conservati i dati completi già verificati nelle pagine precedenti.
+Quando il luogo preciso non era ancora disponibile nei materiali del sito, è indicato
+esplicitamente “luogo da verificare” o “da integrare con dati verificati”, senza inventare informazioni.
+
+Inclusa anche la videopresentazione Canva di Maria Lai:
+https://canva.link/g2olbdpiqy8ms4d
+
+Caricare la cartella artiste completa e data/artists.json, sostituendo i file esistenti.
