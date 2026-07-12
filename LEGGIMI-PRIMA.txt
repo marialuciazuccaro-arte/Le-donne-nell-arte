@@ -1,7 +1,1 @@
-AGGIORNAMENTO GALLERIA V7
-
-1. Carica tutti i file e le cartelle estratti in GitHub, sostituendo quelli esistenti.
-2. Nel repository elimina manualmente il vecchio file biblioteca-immagini.html, perché GitHub Upload non cancella i file già presenti.
-3. Dopo il commit attendi 1-2 minuti e ricarica il sito con Cmd+Shift+R (Mac) o Ctrl+F5 (Windows).
-
-La nuova pagina galleria.html mostra solo le immagini, senza didascalie. Ogni immagine apre la scheda dell’artista corrispondente.
+Aggiornamento v8: descrizioni estese nelle 81 schede e introduzioni complete dei sei secoli. Decomprimere e caricare tutti i file sostituendo quelli esistenti.
