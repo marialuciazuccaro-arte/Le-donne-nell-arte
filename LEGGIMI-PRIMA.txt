@@ -1,1 +1,8 @@
-Aggiornamento v8: descrizioni estese nelle 81 schede e introduzioni complete dei sei secoli. Decomprimere e caricare tutti i file sostituendo quelli esistenti.
+AGGIORNAMENTO V9 – CATERINA VIGRI, LAVINIA FONTANA E GALLERIA
+
+1. Decomprimi questo ZIP.
+2. Carica su GitHub tutto il contenuto mantenendo le cartelle.
+3. Sostituisci i file già esistenti.
+4. Attendi 1–2 minuti e ricarica il sito con Cmd+Shift+R.
+
+Questo aggiornamento contiene 12 file: tre schede, la galleria, il CSS e sette immagini.
