@@ -1,11 +1,11 @@
-AGGIORNAMENTO V25 — EUFRASIA BURLAMACCHI
+AGGIORNAMENTO V26 — PROPERZIA DE’ ROSSI
 
 Contenuti:
-- nuova copertina ricavata da una miniatura autentica;
+- nuova copertina locale;
 - dati biografici e artistici aggiornati;
-- aggiunte dieci immagini di manoscritti e miniature;
-- aggiornati indice delle artiste, pagina del XV secolo, timeline,
-  galleria, artists.json e timelinejs_all.csv;
-- mantenute le correzioni precedenti di Caterina Vigri e Antonia Uccello.
+- aggiunte immagini di opere, intagli e ritratti storici;
+- aggiornati indice artiste, pagina XV secolo, timeline, galleria,
+  artists.json e timelinejs_all.csv;
+- mantenute le correzioni precedenti presenti nella base v25.
 
 Caricare tutti i file mantenendo le cartelle e sostituendo quelli esistenti.
