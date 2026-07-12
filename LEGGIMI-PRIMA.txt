@@ -22,3 +22,10 @@ AGGIORNAMENTO V28 — SOFONISBA ANGUISSOLA
 - aggiunte 4 immagini locali;
 - aggiornata copertina e descrizioni in artiste, galleria, timeline, XVI secolo e file dati;
 - aggiunto il link alla videopresentazione Canva.
+
+
+AGGIORNAMENTO V29 — DIANA MANTOVANA
+- aggiunta la scheda dedicata a Diana Mantovana (Diana Scultori / Diana Mantuana);
+- aggiunte 3 immagini locali;
+- aggiornata copertina e descrizioni in artiste, galleria, timeline, XVI secolo e file dati;
+- corretto l’uso di un’immagine remota non coerente sostituendola con file locali del progetto.
