@@ -22,3 +22,10 @@ Caricare l’intero contenuto della cartella nel repository GitHub Pages, sostit
 - copertina: John William Waterhouse, *A Tale from the Decameron*;
 - palette bordò;
 - carattere Roboto Serif, con fallback Georgia/Times New Roman.
+
+
+## Aggiornamenti v5
+- palette ispirata al dipinto di Waterhouse;
+- collegamento Canva inserito nella scheda di Yayoi Kusama;
+- raccolta immagini limitata ai file non ancora utilizzati;
+- eliminata dalle schede la dicitura relativa al foglio Excel.
