@@ -1,2 +1,14 @@
-Correzione v11: aggiunta l'immagine di copertina di Lavinia Fontana nell'indice delle artiste e nel file dati.
-Decomprimere e caricare tutto mantenendo le cartelle, sostituendo i file esistenti.
+AGGIORNAMENTO V12
+
+Questa versione modifica davvero:
+1. la dedica nella pagina iniziale;
+2. la timeline, ora raggruppata per secoli con schede compatte e link alle artiste;
+3. la galleria, ora a mosaico verticale e senza tagliare le immagini.
+
+Caricare i quattro file mantenendo le cartelle e sostituendo quelli esistenti:
+- index.html
+- timeline.html
+- galleria.html
+- assets/css/style.css
+
+Dopo il commit attendere 1-2 minuti e aggiornare la pagina con Cmd+Shift+R.

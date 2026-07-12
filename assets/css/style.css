@@ -44,3 +44,33 @@ footer{margin-top:70px;background:var(--red-dark);color:white}.footer-inner{widt
 .mosaic-item:nth-child(9n+3){grid-column:span 2}
 @media(max-width:900px){.mosaic-gallery{grid-template-columns:repeat(3,minmax(0,1fr));grid-auto-rows:145px}}
 @media(max-width:560px){.mosaic-gallery{grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-rows:140px}.mosaic-item:nth-child(n){grid-column:span 1}.mosaic-item:nth-child(7n+1){grid-row:span 2}.works-grid img{height:260px}}
+
+
+/* Aggiornamento v12: timeline raggruppata per secoli */
+.timeline-by-century{display:grid;gap:34px;padding-top:24px}
+.century-jump{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}
+.century-timeline{background:#fff9f2;border:1px solid var(--line);border-radius:24px;overflow:hidden;box-shadow:var(--shadow)}
+.century-timeline-head{display:flex;align-items:center;gap:18px;padding:18px 22px;background:linear-gradient(135deg,var(--red-dark),var(--red));color:white}
+.century-number{font-size:2.4rem;font-weight:800;line-height:1;min-width:84px}
+.century-timeline-head h2{margin:0;color:white;font-size:1.7rem}
+.century-timeline-head p{margin:2px 0 0;opacity:.82}
+.timeline-artists-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1px;background:var(--line)}
+.timeline-artist{display:flex;align-items:center;gap:13px;min-height:92px;padding:13px;background:#fff9f2;text-decoration:none;color:var(--ink);transition:background .2s ease,transform .2s ease}
+.timeline-artist:hover{background:#f0e3d5;transform:translateY(-1px)}
+.timeline-thumb{width:62px;height:62px;flex:0 0 62px;border-radius:12px;overflow:hidden;background:var(--soft);display:grid;place-items:center}
+.timeline-thumb img{width:100%;height:100%;object-fit:cover}
+.timeline-placeholder{width:24px;height:24px;border-radius:50%;background:var(--rose);opacity:.55}
+.timeline-copy{display:flex;flex-direction:column;min-width:0}
+.timeline-copy strong{font-size:1rem;line-height:1.25;color:var(--red-dark)}
+.timeline-copy small{font-size:.87rem;color:#6d5c5c;margin-top:4px}
+@media(max-width:560px){.timeline-artists-grid{grid-template-columns:1fr}.century-number{font-size:2rem;min-width:68px}}
+
+/* Aggiornamento v12: galleria dinamica senza tagliare le immagini */
+.mosaic-gallery{display:block!important;column-count:4;column-gap:16px}
+.mosaic-item{display:inline-block;width:100%;margin:0 0 16px;overflow:hidden;border-radius:14px;background:#fff9f2;box-shadow:0 6px 18px rgba(61,31,38,.10);break-inside:avoid;position:relative}
+.mosaic-item img{width:100%;height:auto!important;object-fit:contain!important;display:block;transition:transform .3s ease,filter .3s ease;background:#eee3d7}
+.mosaic-item:hover img{transform:scale(1.02);filter:brightness(.88)}
+.mosaic-item:nth-child(n){grid-row:auto!important;grid-column:auto!important}
+@media(max-width:1000px){.mosaic-gallery{column-count:3}}
+@media(max-width:700px){.mosaic-gallery{column-count:2}}
+@media(max-width:430px){.mosaic-gallery{column-count:1}}
