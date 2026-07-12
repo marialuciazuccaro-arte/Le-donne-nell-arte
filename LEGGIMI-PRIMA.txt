@@ -9,3 +9,9 @@ Contenuti:
 - mantenute le correzioni precedenti presenti nella base v25.
 
 Caricare tutti i file mantenendo le cartelle e sostituendo quelli esistenti.
+
+
+AGGIORNAMENTO V27 — PLAUTILLA NELLI
+- aggiunta scheda aggiornata di Plautilla Nelli
+- aggiunte immagini locali delle opere
+- aggiornata la copertina e i riferimenti in artiste, XVI secolo, galleria, timeline e file dati.
