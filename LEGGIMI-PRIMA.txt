@@ -29,3 +29,8 @@ AGGIORNAMENTO V29 — DIANA MANTOVANA
 - aggiunte 3 immagini locali;
 - aggiornata copertina e descrizioni in artiste, galleria, timeline, XVI secolo e file dati;
 - corretto l’uso di un’immagine remota non coerente sostituendola con file locali del progetto.
+
+
+CORREZIONE V30 — DIANA MANTOVANA
+- ridotta la dimensione dell’immagine principale;
+- ripristinato lo spazio standard per la videopresentazione realizzata dagli alunni.
