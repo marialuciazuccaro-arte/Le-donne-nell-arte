@@ -1,14 +1,17 @@
-AGGIORNAMENTO V22 — COPERTINE CATERINA VIGRI E ANTONIA DONI
+VERSIONE COMPLETA COERENTE V23
 
-Questo aggiornamento corregge le immagini di copertina delle due schede:
-- Caterina Vigri
-- Antonia Doni
+Questa non è una patch: è una ricostruzione cumulativa dell'intero sito.
+Contiene home, indice artiste, timeline, galleria, sei pagine dei secoli, 81 schede artiste, immagini, video, CSS, JavaScript e file dati.
 
-File inclusi:
-- artiste/caterina-vigri.html
-- artiste/antonia-doni.html
-- data/artists.json
-- assets/img/uploaded/caterina-vigri-copertina.jpg
-- assets/img/uploaded/antonia-doni-copertina.jpg
+Sono state rigenerate dalle stesse informazioni:
+- le copertine dei secoli;
+- le miniature dell'indice generale;
+- le miniature nelle pagine dei secoli;
+- la timeline;
+- la galleria.
 
-Carica tutte le cartelle mantenendo la struttura e sostituisci i file esistenti.
+In questo modo non restano pagine statiche collegate a vecchi nomi di immagini.
+
+Caricamento consigliato: svuotare il repository tranne eventuali file GitHub di configurazione, poi caricare nell'ordine i due pacchetti estratti. Mantenere sempre la struttura delle cartelle.
+
+Riferimenti locali mancanti rilevati durante la generazione: 0
