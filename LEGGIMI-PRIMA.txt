@@ -1,14 +1,14 @@
-AGGIORNAMENTO V12
+AGGIORNAMENTO V13 — TIMELINE INFOGRAFICA
 
-Questa versione modifica davvero:
-1. la dedica nella pagina iniziale;
-2. la timeline, ora raggruppata per secoli con schede compatte e link alle artiste;
-3. la galleria, ora a mosaico verticale e senza tagliare le immagini.
+Sostituisce la timeline con una versione ispirata agli esempi:
+- fondo scuro e linea centrale;
+- elementi alternati a destra e sinistra;
+- sezioni raggruppate per secolo;
+- secoli apribili e richiudibili;
+- immagini non tagliate;
+- nome e immagine collegati alla scheda dell'artista.
 
-Caricare i quattro file mantenendo le cartelle e sostituendo quelli esistenti:
-- index.html
+Caricare:
 - timeline.html
-- galleria.html
 - assets/css/style.css
-
-Dopo il commit attendere 1-2 minuti e aggiornare la pagina con Cmd+Shift+R.
+sostituendo i file esistenti.
