@@ -1,12 +1,12 @@
-CORREZIONE V17 — SOLO COPERTINE
+AGGIORNAMENTO V18 — RIMOZIONE COPERTINA DI CATERINA VIGRI
 
-Caterina Vigri:
-assets/img/uploaded/caterina-vigri-copertina-v17.jpg
+La copertina di Caterina Vigri è stata eliminata:
+- dalla pagina personale;
+- dall'indice delle artiste;
+- dal file data/artists.json;
+- dalla timeline, dove compare un segnaposto con la lettera C;
+- dalla galleria.
 
-Antonia Doni:
-assets/img/uploaded/antonia-doni-copertina-v17.jpg
+Le altre immagini storiche presenti più in basso nella pagina di Caterina non sono state eliminate.
 
-Sono aggiornate anche le due pagine personali e data/artists.json.
-I nuovi nomi dei file evitano che il browser mostri ancora le vecchie immagini dalla cache.
-
-Caricare tutto mantenendo le cartelle e sostituendo i file esistenti.
+Caricare tutti i file mantenendo le cartelle e sostituendo quelli esistenti.
