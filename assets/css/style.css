@@ -20,3 +20,6 @@ footer{margin-top:70px;background:var(--red-dark);color:white}.footer-inner{widt
 
 .nav a:hover,.nav a.active{color:var(--terracotta)}
 .pill:hover{background:var(--rose);color:white}
+
+/* Galleria visiva: immagini cliccabili senza didascalie */
+.mosaic-gallery{columns:4 220px;column-gap:16px}.mosaic-item{display:block;break-inside:avoid;margin:0 0 16px;border-radius:16px;overflow:hidden;background:#fff9f2;box-shadow:var(--shadow);border:1px solid var(--line);transition:transform .22s ease,box-shadow .22s ease}.mosaic-item img{width:100%;height:auto;display:block}.mosaic-item:hover,.mosaic-item:focus-visible{transform:translateY(-4px);box-shadow:0 20px 46px rgba(61,31,38,.2);outline:3px solid var(--rose);outline-offset:2px}@media(max-width:700px){.mosaic-gallery{columns:2 140px;column-gap:12px}.mosaic-item{margin-bottom:12px;border-radius:12px}}
