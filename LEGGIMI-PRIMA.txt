@@ -1,19 +1,11 @@
-AGGIORNAMENTO V24
+AGGIORNAMENTO V25 — EUFRASIA BURLAMACCHI
 
-Correzioni incluse:
+Contenuti:
+- nuova copertina ricavata da una miniatura autentica;
+- dati biografici e artistici aggiornati;
+- aggiunte dieci immagini di manoscritti e miniature;
+- aggiornati indice delle artiste, pagina del XV secolo, timeline,
+  galleria, artists.json e timelinejs_all.csv;
+- mantenute le correzioni precedenti di Caterina Vigri e Antonia Uccello.
 
-1. Caterina Vigri
-- eliminata una delle due immagini identiche presenti nella sezione
-  “Opere e testimonianze principali”.
-
-2. Antonia Uccello
-- nome aggiornato da “Antonia Doni” a “Antonia Uccello”;
-- nascita: Firenze, prima del 13 ottobre 1456;
-- morte: Firenze, 9 febbraio 1491;
-- aggiornate pagina personale, indice artiste, pagina del XV secolo,
-  timeline, galleria, artists.json e timelinejs_all.csv.
-
-Lo slug della pagina resta “antonia-doni.html” per non rompere i link già esistenti.
-
-Caricare tutti i file mantenendo esattamente le cartelle e sostituendo
-quelli presenti nel repository.
+Caricare tutti i file mantenendo le cartelle e sostituendo quelli esistenti.
