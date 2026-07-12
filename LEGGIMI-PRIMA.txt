@@ -1,14 +1,11 @@
-AGGIORNAMENTO V13 — TIMELINE INFOGRAFICA
+AGGIORNAMENTO V14
 
-Sostituisce la timeline con una versione ispirata agli esempi:
-- fondo scuro e linea centrale;
-- elementi alternati a destra e sinistra;
-- sezioni raggruppate per secolo;
-- secoli apribili e richiudibili;
-- immagini non tagliate;
-- nome e immagine collegati alla scheda dell'artista.
+Correzioni:
+- Caterina Vigri: nuova immagine corretta di copertina.
+- Antonia Doni: nuova immagine corretta nella scheda.
+- Timeline: immagini di Caterina e Antonia corrette.
+- Galleria: immagini di Caterina e Antonia corrette.
+- Niki de Saint Phalle: video MP4 incorporato nella pagina.
 
-Caricare:
-- timeline.html
-- assets/css/style.css
-sostituendo i file esistenti.
+Caricare tutto mantenendo esattamente le cartelle e sostituendo i file esistenti.
+Il video si trova in assets/video/niki-de-saint-phalle.mp4.

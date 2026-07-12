@@ -122,3 +122,7 @@ footer{margin-top:70px;background:var(--red-dark);color:white}.footer-inner{widt
   .chrono-row.left .chrono-text,.chrono-row.right .chrono-text{margin:0;text-align:left}
   .chrono-image-link{margin:0;max-width:100%}
 }
+
+/* Aggiornamento v14: video incorporato */
+.video-embed{margin-top:14px;border-radius:16px;overflow:hidden;background:#1f1814;box-shadow:var(--shadow)}
+.video-embed video{display:block;width:100%;height:auto;max-height:620px;background:#000}

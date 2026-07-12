@@ -9,7 +9,7 @@
     "century": "XV secolo",
     "sourceUrl": "https://en.wikipedia.org/wiki/Catherine_of_Bologna",
     "canvaUrl": "",
-    "localImage": "assets/img/uploaded/7f502c1e-f524-520e-a551-153d8d02702c.jpg",
+    "localImage": "assets/img/uploaded/caterina-vigri-miniatura-verificata.jpg",
     "longText": "Caterina Vigri, poi Santa Caterina da Bologna, è una figura straordinaria del Quattrocento: monaca clarissa, mistica, artista e scrittrice. Nata nel 1413, unì una profonda spiritualità a un talento raro per la miniatura e la pittura, lasciando opere e testi che rivelano sensibilità, cultura e forza interiore. Una donna che, in un’epoca difficile per le artiste, riuscì comunque a far brillare la propria voce creativa e spirituale."
   },
   {
@@ -22,7 +22,7 @@
     "century": "XV secolo",
     "sourceUrl": "https://it.wikipedia.org/wiki/Antonia_di_Paolo_di_Dono",
     "canvaUrl": "https://canva.link/zudn7m1uxvs7jqf",
-    "localImage": "",
+    "localImage": "assets/img/uploaded/antonia-doni-miniatura.jpg",
     "longText": "Antonia Doni, conosciuta anche come Antonia di Paolo di Dono, nacque a Firenze nel 1446 ed era figlia del celebre pittore Paolo Uccello. Cresciuta in un ambiente familiare legato all’arte, intraprese la vita religiosa e fu ricordata nei documenti come pittrice. Di lei non sono state identificate con certezza opere, ma la sua presenza nelle fonti dimostra che anche nel Quattrocento alcune donne ricevevano una formazione artistica e riuscivano a esercitare la pittura, pur rimanendo quasi invisibili nella storia ufficiale."
   },
   {
@@ -100,7 +100,7 @@
     "century": "XVI secolo",
     "sourceUrl": "https://en.wikipedia.org/wiki/Lavinia_Fontana",
     "canvaUrl": "",
-    "localImage": "assets/img/uploaded/lavinia-autoritratto-spinetta.jpg",
+    "localImage": "",
     "longText": "Lavinia Fontana è una figura significativa della storia dell’arte. Nata nel 1552 e morta nel 1614, fu pittrice manierista bolognese, tra le prime professioniste affermate. Nel Cinquecento, tra Rinascimento e Manierismo, alcune donne riuscirono a ottenere una formazione artistica e, in casi eccezionali, anche committenze pubbliche e prestigio internazionale. Le loro carriere mostrano quanto talento e determinazione fossero necessari per affermarsi in un sistema quasi interamente maschile. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
@@ -803,7 +803,8 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Niki_de_Saint_Phalle",
     "canvaUrl": "",
     "localImage": "",
-    "longText": "Niki de Saint Phalle è una figura significativa della storia dell’arte. Nata nel 1930 e morta nel 2002, fu artista franco-americana nota per le coloratissime Nanas. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+    "longText": "Niki de Saint Phalle è una figura significativa della storia dell’arte. Nata nel 1930 e morta nel 2002, fu artista franco-americana nota per le coloratissime Nanas. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo.",
+    "videoLocal": "assets/video/niki-de-saint-phalle.mp4"
   },
   {
     "slug": "bridget-riley",
