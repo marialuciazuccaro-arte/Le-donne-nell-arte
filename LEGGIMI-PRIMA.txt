@@ -15,3 +15,10 @@ AGGIORNAMENTO V27 — PLAUTILLA NELLI
 - aggiunta scheda aggiornata di Plautilla Nelli
 - aggiunte immagini locali delle opere
 - aggiornata la copertina e i riferimenti in artiste, XVI secolo, galleria, timeline e file dati.
+
+
+AGGIORNAMENTO V28 — SOFONISBA ANGUISSOLA
+- aggiunta la scheda dedicata a Sofonisba Anguissola;
+- aggiunte 4 immagini locali;
+- aggiornata copertina e descrizioni in artiste, galleria, timeline, XVI secolo e file dati;
+- aggiunto il link alla videopresentazione Canva.

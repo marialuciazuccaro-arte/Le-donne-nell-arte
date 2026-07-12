@@ -69,13 +69,14 @@
     "name": "Sofonisba Anguissola",
     "year": "1531",
     "endYear": "1626",
-    "text": "Grande ritrattista del Rinascimento, attiva anche alla corte di Spagna.",
-    "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sofonisba_Anguissola%2C_Selvportr%C3%A6t_ved_staffeliet%2C_1556%2C_Museum_Castle_in_%C5%81a%C5%84cut.jpg/1280px-Sofonisba_Anguissola%2C_Selvportr%C3%A6t_ved_staffeliet%2C_1556%2C_Museum_Castle_in_%C5%81a%C5%84cut.jpg",
+    "text": "Pittrice del tardo Rinascimento, tra le prime donne a raggiungere fama europea come ritrattista.",
+    "media": "assets/img/uploaded/sofonisba-scacchi.jpg",
     "century": "XVI secolo",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Sofonisba_Anguissola",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Sofonisba_Anguissola",
     "canvaUrl": "https://canva.link/b6mt2whma5p3vcm",
-    "localImage": "assets/img/uploaded/3488acd1-25f4-5605-933a-cd56733d7493.webp",
-    "longText": "Sofonisba Anguissola è una figura significativa della storia dell’arte. Nata nel 1531 e morta nel 1626, fu grande ritrattista del Rinascimento, attiva anche alla corte di Spagna. Nel Cinquecento, tra Rinascimento e Manierismo, alcune donne riuscirono a ottenere una formazione artistica e, in casi eccezionali, anche committenze pubbliche e prestigio internazionale. Le loro carriere mostrano quanto talento e determinazione fossero necessari per affermarsi in un sistema quasi interamente maschile. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+    "localImage": "assets/img/uploaded/sofonisba-scacchi.jpg",
+    "longText": "Sofonisba Anguissola nacque a Cremona intorno al 1532 e morì a Palermo nel 1625; alcune fonti più recenti indicano il 1629. Si formò con Bernardino Campi e Bernardino Gatti. Fu dama di corte e maestra di pittura della regina Isabella di Valois presso la corte di Filippo II di Spagna dal 1559 al 1573. Visse poi tra Sicilia, Genova e Palermo. È una delle più importanti pittrici del tardo Rinascimento e tra le prime donne a ottenere fama europea come ritrattista. Vasari la ricordò nelle sue Vite; Michelangelo e van Dyck ne ammirarono il talento. La sua opera più celebre è Le tre sorelle che giocano a scacchi del 1555.",
+    "years": "1532–1625"
   },
   {
     "slug": "diana-mantovana",
