@@ -1,17 +1,19 @@
-VERSIONE COMPLETA COERENTE V23
+AGGIORNAMENTO V24
 
-Questa non è una patch: è una ricostruzione cumulativa dell'intero sito.
-Contiene home, indice artiste, timeline, galleria, sei pagine dei secoli, 81 schede artiste, immagini, video, CSS, JavaScript e file dati.
+Correzioni incluse:
 
-Sono state rigenerate dalle stesse informazioni:
-- le copertine dei secoli;
-- le miniature dell'indice generale;
-- le miniature nelle pagine dei secoli;
-- la timeline;
-- la galleria.
+1. Caterina Vigri
+- eliminata una delle due immagini identiche presenti nella sezione
+  “Opere e testimonianze principali”.
 
-In questo modo non restano pagine statiche collegate a vecchi nomi di immagini.
+2. Antonia Uccello
+- nome aggiornato da “Antonia Doni” a “Antonia Uccello”;
+- nascita: Firenze, prima del 13 ottobre 1456;
+- morte: Firenze, 9 febbraio 1491;
+- aggiornate pagina personale, indice artiste, pagina del XV secolo,
+  timeline, galleria, artists.json e timelinejs_all.csv.
 
-Caricamento consigliato: svuotare il repository tranne eventuali file GitHub di configurazione, poi caricare nell'ordine i due pacchetti estratti. Mantenere sempre la struttura delle cartelle.
+Lo slug della pagina resta “antonia-doni.html” per non rompere i link già esistenti.
 
-Riferimenti locali mancanti rilevati durante la generazione: 0
+Caricare tutti i file mantenendo esattamente le cartelle e sostituendo
+quelli presenti nel repository.
