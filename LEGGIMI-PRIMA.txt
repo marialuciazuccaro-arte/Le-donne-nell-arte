@@ -1,10 +1,8 @@
-AGGIORNAMENTO V31 — LAVINIA FONTANA
+AGGIORNAMENTO V33 — TIMELINE BARBARA LONGHI
 
-Correzioni incluse:
-- scheda di Lavinia Fontana riscritta con il testo fornito;
-- utilizzate esclusivamente le tre immagini originali caricate dall’utente;
-- ripristinato e mantenuto lo spazio per la videopresentazione degli alunni;
-- immagine principale contenuta, senza ingrandimenti eccessivi;
-- aggiornati indice artiste, pagina XVI secolo, galleria, timeline e file dati.
+Correzione inclusa:
+- sostituito il segnaposto con la lettera B nella timeline;
+- inserita la copertina di Barbara Longhi;
+- aggiornata la breve descrizione.
 
-Caricare tutti i file mantenendo le cartelle e sostituendo quelli esistenti.
+Caricare timeline.html e la cartella assets/img/uploaded mantenendo la struttura.
