@@ -122,26 +122,26 @@
     "name": "Fede Galizia",
     "year": "1578",
     "endYear": "1630",
-    "text": "Pittrice milanese nota per nature morte e raffinati ritratti.",
-    "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Judith_with_the_head_of_Holofernes.jpg/960px-Judith_with_the_head_of_Holofernes.jpg",
+    "text": "Pittrice milanese, pioniera della natura morta italiana e raffinata ritrattista.",
+    "media": "assets/img/uploaded/fede-galizia-giuditta.webp",
     "century": "XVI secolo",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Fede_Galizia",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Fede_Galizia",
     "canvaUrl": "",
-    "localImage": "assets/img/uploaded/fede-giuditta-oloferne.jpg",
-    "longText": "Fede Galizia è una figura significativa della storia dell’arte. Nata nel 1578 e morta nel 1630, fu pittrice milanese nota per nature morte e raffinati ritratti. Nel Cinquecento, tra Rinascimento e Manierismo, alcune donne riuscirono a ottenere una formazione artistica e, in casi eccezionali, anche committenze pubbliche e prestigio internazionale. Le loro carriere mostrano quanto talento e determinazione fossero necessari per affermarsi in un sistema quasi interamente maschile. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+    "localImage": "assets/img/uploaded/fede-galizia-giuditta.webp",
+    "longText": "Fede Galizia nacque a Milano intorno al 1578, forse nel 1574, e morì nel 1630 durante la peste. Figlia del miniaturista Nunzio Galizia, si formò nella bottega paterna. Fu ritrattista, pittrice di soggetti religiosi e soprattutto una delle pioniere della natura morta in Italia. Le sue composizioni sono sobrie, eleganti e caratterizzate da grande precisione."
   },
   {
     "slug": "artemisia-gentileschi",
     "name": "Artemisia Gentileschi",
     "year": "1593",
-    "endYear": "1653",
-    "text": "Protagonista del Barocco italiano, celebre per energia narrativa e figure femminili forti.",
-    "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg/960px-Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg",
+    "endYear": "1656",
+    "text": "Pittrice caravaggesca, tra le massime protagoniste del Barocco italiano.",
+    "media": "assets/img/uploaded/artemisia-autoritratto-martire.jpg",
     "century": "XVI secolo",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Artemisia_Gentileschi",
     "canvaUrl": "",
-    "localImage": "",
-    "longText": "Artemisia Gentileschi è una figura significativa della storia dell’arte. Nata nel 1593 e morta nel 1653, fu protagonista del Barocco italiano, celebre per energia narrativa e figure femminili forti. Nel Cinquecento, tra Rinascimento e Manierismo, alcune donne riuscirono a ottenere una formazione artistica e, in casi eccezionali, anche committenze pubbliche e prestigio internazionale. Le loro carriere mostrano quanto talento e determinazione fossero necessari per affermarsi in un sistema quasi interamente maschile. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+    "localImage": "assets/img/uploaded/artemisia-autoritratto-martire.jpg",
+    "longText": "Artemisia Gentileschi nacque a Roma l’8 luglio 1593 e morì a Napoli tra il 1653 e il 1656. Figlia di Orazio Gentileschi, si formò nella bottega paterna e lavorò a Roma, Firenze, Venezia, Napoli e Londra. Fu la prima donna ammessa all’Accademia delle Arti del Disegno di Firenze. La sua pittura, di matrice caravaggesca, è celebre per il forte chiaroscuro, l’energia narrativa e le figure femminili determinate."
   },
   {
     "slug": "clara-peeters",

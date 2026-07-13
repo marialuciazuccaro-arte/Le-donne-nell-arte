@@ -1,8 +1,11 @@
-AGGIORNAMENTO V33 — TIMELINE BARBARA LONGHI
+AGGIORNAMENTO V34 — FEDE GALIZIA E ARTEMISIA GENTILESCHI
 
-Correzione inclusa:
-- sostituito il segnaposto con la lettera B nella timeline;
-- inserita la copertina di Barbara Longhi;
-- aggiornata la breve descrizione.
+Contiene:
+- scheda aggiornata di Fede Galizia con immagini selezionate delle opere;
+- scheda aggiornata di Artemisia Gentileschi con sei immagini;
+- spazio mantenuto per le videopresentazioni degli alunni;
+- copertine aggiornate in indice, pagina del XVI secolo, galleria e timeline;
+- aggiornati artists.json e timelinejs_all.csv;
+- incluse anche le correzioni precedenti di Lavinia Fontana e Barbara Longhi.
 
-Caricare timeline.html e la cartella assets/img/uploaded mantenendo la struttura.
+Caricare tutti i file mantenendo le cartelle e sostituendo quelli esistenti.
