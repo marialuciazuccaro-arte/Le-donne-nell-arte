@@ -170,6 +170,45 @@
     "longText": "Giovanna Garzoni è una figura significativa della storia dell’arte. Nata nel 1600 e morta nel 1670, fu pittrice barocca famosa per miniature, nature morte e botanica. Nel Cinquecento, tra Rinascimento e Manierismo, alcune donne riuscirono a ottenere una formazione artistica e, in casi eccezionali, anche committenze pubbliche e prestigio internazionale. Le loro carriere mostrano quanto talento e determinazione fossero necessari per affermarsi in un sistema quasi interamente maschile. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
+    "slug": "michaelina-wautier",
+    "name": "Michaelina Wautier",
+    "year": "1604",
+    "endYear": "1689",
+    "century": "XVII secolo",
+    "text": "Pittrice barocca fiamminga, autrice di ritratti e ambiziose scene storiche e mitologiche.",
+    "source": "https://en.wikipedia.org/wiki/Michaelina_Wautier",
+    "media": "assets/img/uploaded/michaelina-wautier-copertina.svg",
+    "localImage": "assets/img/uploaded/michaelina-wautier-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Michaelina Wautier fu una delle artiste più versatili del Barocco fiammingo. Lavorò a Bruxelles insieme al fratello Charles e affrontò generi allora raramente concessi alle donne: grandi scene mitologiche, pittura di storia, ritratti e soggetti religiosi. Il monumentale Trionfo di Bacco dimostra la sua conoscenza dell’anatomia e della cultura classica. La sua figura è stata riscoperta pienamente solo in tempi recenti."
+  },
+  {
+    "slug": "judith-leyster",
+    "name": "Judith Leyster",
+    "year": "1609",
+    "endYear": "1660",
+    "century": "XVII secolo",
+    "text": "Pittrice del Secolo d’oro olandese, maestra di scene di genere e ritratti vivaci.",
+    "source": "https://en.wikipedia.org/wiki/Judith_Leyster",
+    "media": "assets/img/uploaded/judith-leyster-copertina.svg",
+    "localImage": "assets/img/uploaded/judith-leyster-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Judith Leyster fu una delle rare pittrici professioniste del Secolo d’oro olandese. Nel 1633 entrò nella Gilda di San Luca di Haarlem e gestì una propria bottega con allievi. Dipinse ritratti, musicisti e scene di genere caratterizzate da pennellate rapide, luce teatrale e grande immediatezza. Molte sue opere furono in seguito attribuite a Frans Hals, prima della riscoperta critica del suo nome alla fine dell’Ottocento."
+  },
+  {
+    "slug": "louise-moillon",
+    "name": "Louise Moillon",
+    "year": "1610",
+    "endYear": "1696",
+    "century": "XVII secolo",
+    "text": "Pittrice francese specializzata in raffinate nature morte di frutta.",
+    "source": "https://en.wikipedia.org/wiki/Louise_Moillon",
+    "media": "assets/img/uploaded/louise-moillon-copertina.svg",
+    "localImage": "assets/img/uploaded/louise-moillon-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Louise Moillon fu una delle più importanti pittrici di natura morta nella Francia del Seicento. Cresciuta in una famiglia di artisti protestanti, sviluppò composizioni ordinate, illuminate con chiarezza e caratterizzate da una resa tattile molto precisa. Dipinse soprattutto frutti disposti in ceste, piatti e tavoli, talvolta accompagnati da figure di venditori."
+  },
+  {
     "slug": "plautilla-bricci",
     "name": "Plautilla Bricci",
     "year": "1616",
@@ -207,6 +246,32 @@
     "canvaUrl": "",
     "localImage": "",
     "longText": "Elisabetta Sirani è una figura significativa della storia dell’arte. Nata nel 1638 e morta nel 1665, fu pittrice bolognese barocca, fondò una scuola frequentata anche da donne. Nel Seicento, tra Barocco, ritratto e natura morta, alcune artiste raggiunsero una vera professionalità. La famiglia, il convento o una bottega favorevole potevano aprire possibilità rare, mentre accademie e grandi cantieri restavano spesso difficili da frequentare. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+  },
+  {
+    "slug": "maria-sibylla-merian",
+    "name": "Maria Sibylla Merian",
+    "year": "1647",
+    "endYear": "1717",
+    "century": "XVII secolo",
+    "text": "Naturalista e illustratrice, pioniera dello studio visivo della metamorfosi degli insetti.",
+    "source": "https://en.wikipedia.org/wiki/Maria_Sibylla_Merian",
+    "media": "assets/img/uploaded/maria-sibylla-merian-copertina.svg",
+    "localImage": "assets/img/uploaded/maria-sibylla-merian-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Maria Sibylla Merian unì arte e scienza con straordinaria precisione. Studiò direttamente bruchi, crisalidi, farfalle e piante nutrici, rappresentandoli nello stesso ambiente naturale. Nel 1699 viaggiò in Suriname con la figlia Dorothea per osservare specie tropicali. Le tavole della Metamorphosis insectorum Surinamensium contribuirono in modo decisivo alla nascita dell’entomologia moderna."
+  },
+  {
+    "slug": "rachel-ruysch",
+    "name": "Rachel Ruysch",
+    "year": "1664",
+    "endYear": "1750",
+    "century": "XVII secolo",
+    "text": "Grande maestra della natura morta floreale tra Seicento e Settecento.",
+    "source": "https://en.wikipedia.org/wiki/Rachel_Ruysch",
+    "media": "assets/img/uploaded/rachel-ruysch-copertina.svg",
+    "localImage": "assets/img/uploaded/rachel-ruysch-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Rachel Ruysch fu una delle più celebrate pittrici di fiori dell’Europa barocca. Figlia del botanico Frederik Ruysch, studiò piante e insetti fin dall’infanzia e si formò con Willem van Aelst. Le sue composizioni uniscono osservazione scientifica, dinamismo diagonale e raffinatissimi contrasti di luce. Lavorò anche come pittrice di corte dell’elettore palatino Johann Wilhelm a Düsseldorf."
   },
   {
     "slug": "rosalba-carriera",
@@ -404,6 +469,19 @@
     "longText": "Marianne von Werefkin è una figura significativa della storia dell’arte. Nata nel 1860 e morta nel 1938, fu artista russa d’avanguardia, legata all’espressionismo. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
+    "slug": "hilma-af-klint",
+    "name": "Hilma af Klint",
+    "year": "1862",
+    "endYear": "1944",
+    "century": "XIX secolo",
+    "text": "Pioniera dell’astrazione, autrice di grandi cicli simbolici e spirituali.",
+    "source": "https://en.wikipedia.org/wiki/Hilma_af_Klint",
+    "media": "assets/img/uploaded/hilma-af-klint-copertina.svg",
+    "localImage": "assets/img/uploaded/hilma-af-klint-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Hilma af Klint realizzò composizioni astratte già dal 1906, prima delle esperienze di Kandinskij e Mondrian. Formata all’Accademia reale di Stoccolma, sviluppò parallelamente alla pittura naturalistica una ricerca spirituale basata su geometrie, colori e simboli. Il grande ciclo dei Dipinti per il Tempio comprende quasi duecento opere. Chiese che i lavori astratti non fossero esposti prima di vent’anni dalla sua morte."
+  },
+  {
     "slug": "camille-claudel",
     "name": "Camille Claudel",
     "year": "1864",
@@ -456,6 +534,19 @@
     "longText": "Juana Romani è una figura significativa della storia dell’arte. Nata nel 1867 e morta nel 1923, fu pittrice italiana attiva a Parigi, vicina al simbolismo. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
+    "slug": "kathe-kollwitz",
+    "name": "Käthe Kollwitz",
+    "year": "1867",
+    "endYear": "1945",
+    "century": "XIX secolo",
+    "text": "Incisora e scultrice tedesca, interprete di guerra, povertà, maternità e lutto.",
+    "source": "https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz",
+    "media": "assets/img/uploaded/kathe-kollwitz-copertina.svg",
+    "localImage": "assets/img/uploaded/kathe-kollwitz-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Käthe Kollwitz sviluppò una delle ricerche grafiche più intense del Novecento europeo. Attraverso acqueforti, litografie, xilografie e sculture raccontò la vita dei lavoratori, la povertà, la maternità e il lutto provocato dalla guerra. La morte del figlio Peter nel 1914 segnò profondamente la sua opera. Nel 1933 fu costretta dal nazismo a lasciare l’Accademia prussiana delle arti."
+  },
+  {
     "slug": "alice-bailly",
     "name": "Alice Bailly",
     "year": "1872",
@@ -480,6 +571,19 @@
     "canvaUrl": "",
     "localImage": "",
     "longText": "Frances MacDonald è una figura significativa della storia dell’arte. Nata nel 1873 e morta nel 1921, fu artista scozzese del Glasgow Style, legata a simbolismo e design. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+  },
+  {
+    "slug": "paula-modersohn-becker",
+    "name": "Paula Modersohn-Becker",
+    "year": "1876",
+    "endYear": "1907",
+    "century": "XIX secolo",
+    "text": "Pioniera dell’Espressionismo, autrice di ritratti e autoritratti radicalmente moderni.",
+    "source": "https://en.wikipedia.org/wiki/Paula_Modersohn-Becker",
+    "media": "assets/img/uploaded/paula-modersohn-becker-copertina.svg",
+    "localImage": "assets/img/uploaded/paula-modersohn-becker-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Paula Modersohn-Becker fu una figura decisiva della pittura moderna tedesca. Lavorò nella colonia artistica di Worpswede e soggiornò più volte a Parigi, dove studiò Cézanne, Gauguin e l’arte antica. Dipinse contadini, madri, bambini e numerosi autoritratti, cercando forme semplici e colori compatti. Il suo Autoritratto nel sesto anniversario di matrimonio è tra i primi autoritratti femminili moderni a mostrare il corpo nudo dell’artista."
   },
   {
     "slug": "gabriele-munter",
@@ -547,6 +651,19 @@
     "longText": "Jane Peterson è una figura significativa della storia dell’arte. Nata nel 1886 e morta nel 1965, fu pittrice americana nota per paesaggi e scene di viaggio. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
+    "slug": "tarsila-do-amaral",
+    "name": "Tarsila do Amaral",
+    "year": "1886",
+    "endYear": "1973",
+    "century": "XIX secolo",
+    "text": "Figura centrale del modernismo brasiliano e del movimento antropofago.",
+    "source": "https://en.wikipedia.org/wiki/Tarsila_do_Amaral",
+    "media": "assets/img/uploaded/tarsila-do-amaral-copertina.svg",
+    "localImage": "assets/img/uploaded/tarsila-do-amaral-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Tarsila do Amaral fu una delle figure decisive del modernismo brasiliano. Dopo la formazione a San Paolo e Parigi, elaborò un linguaggio capace di unire avanguardie europee, paesaggio brasiliano, cultura popolare e riflessione sull’identità nazionale. Abaporu divenne l’immagine simbolo del Manifesto antropofago di Oswald de Andrade, fondato sull’idea di trasformare creativamente le influenze straniere."
+  },
+  {
     "slug": "georgia-okeeffe",
     "name": "Georgia O’Keeffe",
     "year": "1887",
@@ -558,6 +675,45 @@
     "canvaUrl": "",
     "localImage": "assets/img/uploaded/8a6ca9bb-7793-5555-b44e-40efdbd0e7f4.webp",
     "longText": "Georgia O’Keeffe è una figura significativa della storia dell’arte. Nata nel 1887 e morta nel 1986, fu figura chiave del modernismo americano. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+  },
+  {
+    "slug": "hannah-hoch",
+    "name": "Hannah Höch",
+    "year": "1889",
+    "endYear": "1978",
+    "century": "XIX secolo",
+    "text": "Pioniera del fotomontaggio dadaista e critica delle identità sociali e di genere.",
+    "source": "https://en.wikipedia.org/wiki/Hannah_H%C3%B6ch",
+    "media": "assets/img/uploaded/hannah-hoch-copertina.svg",
+    "localImage": "assets/img/uploaded/hannah-hoch-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Hannah Höch fu una delle protagoniste del Dada berlinese e una pioniera del fotomontaggio. Utilizzò fotografie ritagliate da giornali e riviste per criticare politica, militarismo, stereotipi femminili e cultura di massa. Il suo lavoro mette in discussione i ruoli di genere e l’idea di identità stabile, combinando corpi, macchine e frammenti tipografici con ironia e precisione compositiva."
+  },
+  {
+    "slug": "alma-thomas",
+    "name": "Alma Thomas",
+    "year": "1891",
+    "endYear": "1978",
+    "century": "XIX secolo",
+    "text": "Pittrice astratta afroamericana, nota per mosaici cromatici ispirati alla natura e allo spazio.",
+    "source": "https://en.wikipedia.org/wiki/Alma_Thomas",
+    "media": "assets/img/uploaded/alma-thomas-copertina.svg",
+    "localImage": "assets/img/uploaded/alma-thomas-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Alma Thomas insegnò arte per trentacinque anni nelle scuole pubbliche di Washington e si dedicò pienamente alla pittura dopo il pensionamento. Elaborò un linguaggio astratto formato da brevi pennellate rettangolari disposte in ritmi circolari e verticali. I suoi colori luminosi si ispirano ai giardini, alla luce, alla musica e alle esplorazioni spaziali."
+  },
+  {
+    "slug": "augusta-savage",
+    "name": "Augusta Savage",
+    "year": "1892",
+    "endYear": "1962",
+    "century": "XIX secolo",
+    "text": "Scultrice e insegnante dell’Harlem Renaissance, impegnata contro la discriminazione razziale.",
+    "source": "https://en.wikipedia.org/wiki/Augusta_Savage",
+    "media": "assets/img/uploaded/augusta-savage-copertina.svg",
+    "localImage": "assets/img/uploaded/augusta-savage-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Augusta Savage fu una protagonista dell’Harlem Renaissance e una fondamentale insegnante per generazioni di artisti afroamericani. Lavorò soprattutto nel ritratto scultoreo e fondò scuole e laboratori accessibili alla comunità nera di New York. Per l’Esposizione universale del 1939 realizzò The Harp, monumentale celebrazione della canzone Lift Every Voice and Sing, oggi nota solo attraverso fotografie."
   },
   {
     "slug": "marianne-brandt",
@@ -651,6 +807,19 @@
     "longText": "Anni Albers è una figura significativa della storia dell’arte. Nata nel 1899 e morta nel 1994, fu artista tessile e teorica del design moderno. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
+    "slug": "louise-nevelson",
+    "name": "Louise Nevelson",
+    "year": "1899",
+    "endYear": "1988",
+    "century": "XIX secolo",
+    "text": "Scultrice dell’assemblage, celebre per ambienti monocromi costruiti con elementi lignei.",
+    "source": "https://en.wikipedia.org/wiki/Louise_Nevelson",
+    "media": "assets/img/uploaded/louise-nevelson-copertina.svg",
+    "localImage": "assets/img/uploaded/louise-nevelson-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Louise Nevelson trasformò frammenti di legno, mobili e oggetti trovati in grandi strutture architettoniche monocrome. Dipingendo tutto di nero, bianco o oro, unificava materiali diversi in rilievi e ambienti che evocano città, altari e teatri. La sua opera contribuì in modo decisivo all’affermazione dell’assemblage e della scultura installativa negli Stati Uniti."
+  },
+  {
     "slug": "gertrud-arndt",
     "name": "Gertrud Arndt",
     "year": "1903",
@@ -690,6 +859,19 @@
     "longText": "Lee Krasner è una figura significativa della storia dell’arte. Nata nel 1908 e morta nel 1984, fu pittrice dell’espressionismo astratto, protagonista della scuola di New York. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
+    "slug": "remedios-varo",
+    "name": "Remedios Varo",
+    "year": "1908",
+    "endYear": "1963",
+    "century": "XX secolo",
+    "text": "Pittrice surrealista ispano-messicana, autrice di mondi alchemici e visionari.",
+    "source": "https://en.wikipedia.org/wiki/Remedios_Varo",
+    "media": "assets/img/uploaded/remedios-varo-copertina.svg",
+    "localImage": "assets/img/uploaded/remedios-varo-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Remedios Varo si formò all’Accademia di San Fernando a Madrid e partecipò all’avanguardia surrealista tra Barcellona e Parigi. Rifugiatasi in Messico durante la Seconda guerra mondiale, sviluppò un universo pittorico popolato da viaggiatrici, alchimiste, scienziate e architetture fantastiche. Le sue immagini combinano precisione tecnica, umorismo, esoterismo e riflessione sull’identità femminile."
+  },
+  {
     "slug": "dorothea-tanning",
     "name": "Dorothea Tanning",
     "year": "1910",
@@ -727,6 +909,19 @@
     "canvaUrl": "",
     "localImage": "",
     "longText": "Meret Oppenheim è una figura significativa della storia dell’arte. Nata nel 1913 e morta nel 1985, fu artista surrealista svizzera famosa per oggetti poetici e stranianti. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+  },
+  {
+    "slug": "carmen-herrera",
+    "name": "Carmen Herrera",
+    "year": "1915",
+    "endYear": "2022",
+    "century": "XX secolo",
+    "text": "Pittrice cubano-statunitense dell’astrazione geometrica, riconosciuta pienamente in tarda età.",
+    "source": "https://en.wikipedia.org/wiki/Carmen_Herrera",
+    "media": "assets/img/uploaded/carmen-herrera-copertina.svg",
+    "localImage": "assets/img/uploaded/carmen-herrera-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Carmen Herrera costruì per oltre settant’anni una rigorosa ricerca geometrica basata su campiture nette, diagonali e contrasti cromatici. Visse tra Cuba, Parigi e New York e sviluppò un linguaggio vicino al concretismo e al minimalismo, indipendentemente dalle mode dominanti. Ottenne il pieno riconoscimento internazionale solo dopo i novant’anni."
   },
   {
     "slug": "leonora-carrington",
@@ -808,6 +1003,19 @@
     "videoLocal": "assets/video/niki-de-saint-phalle.mp4"
   },
   {
+    "slug": "faith-ringgold",
+    "name": "Faith Ringgold",
+    "year": "1930",
+    "endYear": "2024",
+    "century": "XX secolo",
+    "text": "Artista afroamericana celebre per gli story quilts, tra pittura, tessuto e narrazione.",
+    "source": "https://en.wikipedia.org/wiki/Faith_Ringgold",
+    "media": "assets/img/uploaded/faith-ringgold-copertina.svg",
+    "localImage": "assets/img/uploaded/faith-ringgold-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Faith Ringgold unì pittura, tessuto, scrittura e attivismo politico. Nelle serie American People affrontò razzismo e conflitti sociali degli Stati Uniti; dagli anni Ottanta sviluppò gli story quilts, opere tessili che intrecciano immagini e testi narrativi. Fu anche autrice di libri per ragazzi e promotrice della presenza delle donne nere nei musei e nella storia dell’arte."
+  },
+  {
     "slug": "bridget-riley",
     "name": "Bridget Riley",
     "year": "1931",
@@ -819,6 +1027,19 @@
     "canvaUrl": "",
     "localImage": "assets/img/uploaded/30a0e7d6-d971-5d0f-b895-ca08974e30c8.jpg",
     "longText": "Bridget Riley è una figura significativa della storia dell’arte. Nata nel 1931, fu pittrice britannica tra le principali esponenti dell’Op Art. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+  },
+  {
+    "slug": "eva-hesse",
+    "name": "Eva Hesse",
+    "year": "1936",
+    "endYear": "1970",
+    "century": "XX secolo",
+    "text": "Scultrice post-minimalista, innovatrice nell’uso di lattice, fibra di vetro e materiali industriali.",
+    "source": "https://en.wikipedia.org/wiki/Eva_Hesse",
+    "media": "assets/img/uploaded/eva-hesse-copertina.svg",
+    "localImage": "assets/img/uploaded/eva-hesse-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Eva Hesse trasformò profondamente la scultura degli anni Sessanta attraverso forme modulari, irregolari e vulnerabili. Utilizzò corde, lattice, fibra di vetro e resine, accettando l’instabilità e il deterioramento dei materiali come parte dell’opera. La sua ricerca mette in tensione ordine e caos, ripetizione e differenza, rigidità geometrica e presenza organica."
   },
   {
     "slug": "ketty-la-rocca",
@@ -884,6 +1105,19 @@
     "canvaUrl": "",
     "localImage": "",
     "longText": "Marina Abramović è una figura significativa della storia dell’arte. Nata nel 1946, fu pioniera della performance art contemporanea. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+  },
+  {
+    "slug": "ana-mendieta",
+    "name": "Ana Mendieta",
+    "year": "1948",
+    "endYear": "1985",
+    "century": "XX secolo",
+    "text": "Artista cubano-statunitense che unì corpo, paesaggio, memoria ed esilio.",
+    "source": "https://en.wikipedia.org/wiki/Ana_Mendieta",
+    "media": "assets/img/uploaded/ana-mendieta-copertina.svg",
+    "localImage": "assets/img/uploaded/ana-mendieta-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Ana Mendieta sviluppò una ricerca radicale sul rapporto tra corpo e natura. Arrivata negli Stati Uniti da Cuba da adolescente, elaborò il tema dell’esilio attraverso azioni, fotografie, film e tracce effimere nel paesaggio. Nella Silueta Series modellò sagome femminili con terra, fuoco, sangue, fiori e pietre, creando immagini di appartenenza, assenza e trasformazione."
   },
   {
     "slug": "jenny-holzer",
@@ -977,6 +1211,19 @@
     "longText": "Francesca Woodman è una figura significativa della storia dell’arte. Nata nel 1958 e morta nel 1981, fu fotografa americana nota per immagini intime e sperimentali. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
+    "slug": "sonia-boyce",
+    "name": "Sonia Boyce",
+    "year": "1962",
+    "endYear": "",
+    "century": "XX secolo",
+    "text": "Artista britannica che esplora identità, voce, collaborazione e rappresentazione nera.",
+    "source": "https://en.wikipedia.org/wiki/Sonia_Boyce",
+    "media": "assets/img/uploaded/sonia-boyce-copertina.svg",
+    "localImage": "assets/img/uploaded/sonia-boyce-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Sonia Boyce è una figura centrale della British Black Arts Movement. Dagli autoritratti degli anni Ottanta è passata a pratiche collaborative che coinvolgono musica, improvvisazione, video e installazione. La sua ricerca indaga il modo in cui identità, voce e memoria collettiva vengono costruite e rappresentate. Nel 2022 ha rappresentato il Regno Unito alla Biennale di Venezia, vincendo il Leone d’oro."
+  },
+  {
     "slug": "tracey-emin",
     "name": "Tracey Emin",
     "year": "1963",
@@ -988,6 +1235,19 @@
     "canvaUrl": "",
     "localImage": "",
     "longText": "Tracey Emin è una figura significativa della storia dell’arte. Nata nel 1963, fu artista britannica che usa autobiografia, testo e installazione. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+  },
+  {
+    "slug": "lady-pink",
+    "name": "Lady Pink",
+    "year": "1964",
+    "endYear": "",
+    "text": "Pioniera della street art e del writing newyorkese.",
+    "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pink_MoMA_PS1_2_%28cropped%29.jpg/960px-Pink_MoMA_PS1_2_%28cropped%29.jpg",
+    "century": "XX secolo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lady_Pink",
+    "canvaUrl": "https://canva.link/tno68w2wyoxiyzm",
+    "localImage": "assets/img/uploaded/8eed3410-22a1-5df7-9b1d-d8ee70c18ce4.jpg",
+    "longText": "Lady Pink è una figura significativa della storia dell’arte. Nata nel 1964, fu pioniera della street art e del writing newyorkese. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
     "slug": "sam-taylor-johnson",
@@ -1029,17 +1289,17 @@
     "longText": "Julie Mehretu è una figura significativa della storia dell’arte. Nata nel 1970, fu pittrice astratta contemporanea di grande scala. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
-    "slug": "lady-pink",
-    "name": "Lady Pink",
-    "year": "1964",
+    "slug": "zanele-muholi",
+    "name": "Zanele Muholi",
+    "year": "1972",
     "endYear": "",
-    "text": "Pioniera della street art e del writing newyorkese.",
-    "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pink_MoMA_PS1_2_%28cropped%29.jpg/960px-Pink_MoMA_PS1_2_%28cropped%29.jpg",
     "century": "XX secolo",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Lady_Pink",
-    "canvaUrl": "https://canva.link/tno68w2wyoxiyzm",
-    "localImage": "assets/img/uploaded/8eed3410-22a1-5df7-9b1d-d8ee70c18ce4.jpg",
-    "longText": "Lady Pink è una figura significativa della storia dell’arte. Nata nel 1964, fu pioniera della street art e del writing newyorkese. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+    "text": "Fotografa e attivista visiva sudafricana, impegnata nella rappresentazione delle comunità LGBTQIA+.",
+    "source": "https://en.wikipedia.org/wiki/Zanele_Muholi",
+    "media": "assets/img/uploaded/zanele-muholi-copertina.svg",
+    "localImage": "assets/img/uploaded/zanele-muholi-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Zanele Muholi si definisce visual activist. Attraverso ritratti, autoritratti e archivi fotografici documenta vite, relazioni e forme di resistenza delle comunità nere LGBTQIA+ sudafricane. Faces and Phases costruisce una memoria collettiva contro cancellazione e violenza; Somnyama Ngonyama utilizza l’autoritratto per affrontare razzismo, lavoro e storia coloniale."
   },
   {
     "slug": "zehra-dogan",

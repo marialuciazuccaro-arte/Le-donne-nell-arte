@@ -1,11 +1,20 @@
-AGGIORNAMENTO V34 — FEDE GALIZIA E ARTEMISIA GENTILESCHI
+AGGIORNAMENTO V36 — 20 NUOVE ARTISTE
 
-Contiene:
-- scheda aggiornata di Fede Galizia con immagini selezionate delle opere;
-- scheda aggiornata di Artemisia Gentileschi con sei immagini;
-- spazio mantenuto per le videopresentazioni degli alunni;
-- copertine aggiornate in indice, pagina del XVI secolo, galleria e timeline;
-- aggiornati artists.json e timelinejs_all.csv;
-- incluse anche le correzioni precedenti di Lavinia Fontana e Barbara Longhi.
+Il sito passa da 81 a 101 artiste.
 
-Caricare tutti i file mantenendo le cartelle e sostituendo quelli esistenti.
+Nuove schede: Judith Leyster, Rachel Ruysch, Käthe Kollwitz, Paula Modersohn-Becker, Hilma af Klint, Hannah Höch, Tarsila do Amaral, Remedios Varo, Augusta Savage, Faith Ringgold, Ana Mendieta, Eva Hesse, Maria Sibylla Merian, Louise Moillon, Michaelina Wautier, Louise Nevelson, Alma Thomas, Carmen Herrera, Sonia Boyce, Zanele Muholi.
+
+Ogni scheda contiene:
+- biografia e dati essenziali;
+- almeno tre opere con titolo, data e collocazione;
+- spazio per la videopresentazione degli alunni;
+- copertina grafica locale;
+- ricerca automatica delle immagini delle opere su Wikimedia Commons, quando disponibili.
+
+Per ragioni di diritto d’autore, soprattutto per artiste contemporanee, le riproduzioni non vengono copiate nel pacchetto: la pagina cerca immagini disponibili su Wikimedia Commons e mantiene comunque titoli, dati e collegamenti.
+
+Sono stati rigenerati anche indice, home, timeline, galleria, pagine dei secoli e file dati, eliminando i percorsi di immagini corrotti.
+
+NUMERO FILE: il pacchetto contiene meno di 100 file e può essere caricato in un’unica operazione.
+
+ISTRUZIONI: decomprimere e caricare il contenuto dalla radice del repository, mantenendo le cartelle e sostituendo i file esistenti.
