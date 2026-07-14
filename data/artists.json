@@ -92,19 +92,6 @@
     "longText": "Diana Mantovana, nota anche come Diana Scultori o Diana Mantuana, nacque a Mantova nel 1547 e morì a Roma il 5 aprile 1612. Si formò nella bottega del padre Giovan Battista Scultori, incisore alla corte dei Gonzaga, e si confrontò con i modelli di Giulio Romano. Nel 1575, dopo il matrimonio con l’architetto Francesco da Volterra (Capriani), si trasferì a Roma, dove visse e lavorò presso via della Scrofa. Incisora manierista italiana, fu tra le prime donne conosciute nella storia della stampa. Tradusse in incisione opere di grandi maestri come Raffaello, Federico Zuccari e Raffaellino da Reggio. Nello stesso 1575 ottenne da papa Gregorio XIII il privilegio di firmare le proprie lastre con il proprio nome, “Diana Mantuana”, e di commercializzarle in esclusiva per dieci anni: un primato eccezionale per una donna dell’epoca. Fu citata anche da Vasari nell’edizione del 1568 delle Vite."
   },
   {
-    "slug": "lavinia-fontana",
-    "name": "Lavinia Fontana",
-    "year": "1552",
-    "endYear": "1614",
-    "text": "Pittrice manierista, tra le prime donne a esercitare professionalmente la pittura.",
-    "media": "assets/img/uploaded/lavinia-autoritratto-spinetta.jpg",
-    "century": "XVI secolo",
-    "sourceUrl": "https://it.wikipedia.org/wiki/Lavinia_Fontana",
-    "canvaUrl": "",
-    "localImage": "assets/img/uploaded/lavinia-autoritratto-spinetta.jpg",
-    "longText": "Lavinia Fontana nacque a Bologna il 24 agosto 1552 e morì a Roma l’11 agosto 1614. Si formò nella bottega del padre Prospero Fontana e lavorò a Bologna fino al 1603, quando si trasferì stabilmente a Roma. Pittrice manierista, fu tra le prime donne a esercitare professionalmente la pittura e a ottenere commissioni pubbliche di grande prestigio. È ricordata come la prima donna a dipingere una pala d’altare nell’Europa cattolica e come una delle prime a realizzare un nudo femminile destinato a una committenza colta. Soprannominata “la Pontificia Pittrice”, è la pittrice rinascimentale della quale sopravvive il maggior numero di opere. Fu sepolta nella chiesa di Santa Maria sopra Minerva a Roma."
-  },
-  {
     "slug": "barbara-longhi",
     "name": "Barbara Longhi",
     "year": "1552",
@@ -116,6 +103,19 @@
     "canvaUrl": "",
     "localImage": "assets/img/uploaded/barbara-longhi-copertina.webp",
     "longText": "Barbara Longhi nacque a Ravenna il 21 settembre 1552 e morì nella stessa città il 23 dicembre 1638. Trascorse l’intera esistenza a Ravenna, formandosi ed operando nella bottega paterna insieme al fratello maggiore Francesco. Figlia del pittore Luca Longhi, fu una pittrice manierista stimata anche come ritrattista, ma specializzata soprattutto in piccole tele a soggetto religioso destinate alla devozione privata, come Madonne con Bambino e immagini di sante. Giorgio Vasari la citò nella seconda edizione delle Vite del 1568, lodandone la precoce disposizione artistica. Opere importanti sono conservate al Museo d’Arte della città di Ravenna e al Louvre."
+  },
+  {
+    "slug": "lavinia-fontana",
+    "name": "Lavinia Fontana",
+    "year": "1552",
+    "endYear": "1614",
+    "text": "Pittrice manierista, tra le prime donne a esercitare professionalmente la pittura.",
+    "media": "assets/img/uploaded/lavinia-autoritratto-spinetta.jpg",
+    "century": "XVI secolo",
+    "sourceUrl": "https://it.wikipedia.org/wiki/Lavinia_Fontana",
+    "canvaUrl": "",
+    "localImage": "assets/img/uploaded/lavinia-autoritratto-spinetta.jpg",
+    "longText": "Lavinia Fontana nacque a Bologna il 24 agosto 1552 e morì a Roma l’11 agosto 1614. Si formò nella bottega del padre Prospero Fontana e lavorò a Bologna fino al 1603, quando si trasferì stabilmente a Roma. Pittrice manierista, fu tra le prime donne a esercitare professionalmente la pittura e a ottenere commissioni pubbliche di grande prestigio. È ricordata come la prima donna a dipingere una pala d’altare nell’Europa cattolica e come una delle prime a realizzare un nudo femminile destinato a una committenza colta. Soprannominata “la Pontificia Pittrice”, è la pittrice rinascimentale della quale sopravvive il maggior numero di opere. Fu sepolta nella chiesa di Santa Maria sopra Minerva a Roma."
   },
   {
     "slug": "fede-galizia",
@@ -599,6 +599,19 @@
     "longText": "Gabriele Münter è una figura significativa della storia dell’arte. Nata nel 1877 e morta nel 1962, fu pittrice espressionista del gruppo del Blaue Reiter. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
+    "slug": "agnes-pelton",
+    "name": "Agnes Pelton",
+    "year": "1881",
+    "endYear": "1961",
+    "century": "XIX secolo",
+    "text": "Pittrice modernista statunitense, pioniera dell’astrazione spirituale.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Agnes_Pelton",
+    "media": "assets/img/uploaded/agnes-pelton-ritratto.webp",
+    "localImage": "assets/img/uploaded/agnes-pelton-ritratto.webp",
+    "canvaUrl": "",
+    "longText": "Agnes Pelton fu una pioniera dell’astrazione spirituale negli Stati Uniti. Dopo una prima fase figurativa, elaborò immagini di luce, forme cosmiche e presenze naturali ispirate alla meditazione, alla teosofia e all’esperienza del paesaggio desertico californiano. Negli anni Trenta aderì al Transcendental Painting Group, condividendo l’idea che l’arte astratta potesse rendere visibile una realtà interiore e universale."
+  },
+  {
     "slug": "natalia-goncharova",
     "name": "Natalia Goncharova",
     "year": "1881",
@@ -675,6 +688,19 @@
     "canvaUrl": "",
     "localImage": "assets/img/uploaded/8a6ca9bb-7793-5555-b44e-40efdbd0e7f4.webp",
     "longText": "Georgia O’Keeffe è una figura significativa della storia dell’arte. Nata nel 1887 e morta nel 1986, fu figura chiave del modernismo americano. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+  },
+  {
+    "slug": "anita-malfatti",
+    "name": "Anita Malfatti",
+    "year": "1889",
+    "endYear": "1964",
+    "century": "XIX secolo",
+    "text": "Pittrice modernista brasiliana, protagonista della nascita dell’avanguardia nel paese.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anita_Malfatti",
+    "media": "assets/img/uploaded/anita-malfatti-copertina.svg",
+    "localImage": "assets/img/uploaded/anita-malfatti-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Anita Malfatti fu una delle protagoniste decisive del Modernismo brasiliano. Dopo esperienze di formazione a Berlino e New York, portò a San Paolo un linguaggio acceso, espressivo e distante dal naturalismo accademico. La sua mostra del 1917 suscitò forti polemiche, ma aprì la strada alla Settimana d’Arte Moderna del 1922. Nei ritratti e nelle figure deformò il disegno e intensificò il colore per esprimere tensione psicologica e autonomia creativa."
   },
   {
     "slug": "hannah-hoch",
@@ -755,19 +781,6 @@
     "longText": "Gunta Stölzl è una figura significativa della storia dell’arte. Nata nel 1897 e morta nel 1983, fu designer tessile del Bauhaus, innovatrice nella tessitura moderna. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
-    "slug": "tamara-de-lempicka",
-    "name": "Tamara de Lempicka",
-    "year": "1898",
-    "endYear": "1980",
-    "text": "Pittrice Art Déco famosa per ritratti eleganti e geometrici.",
-    "media": "https://upload.wikimedia.org/wikipedia/en/c/c7/Tamara_de_Lempicka%2C_Autoportrait_%28Tamara_in_a_Green_Bugatti%29.jpeg",
-    "century": "XIX secolo",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Tamara_de_Lempicka",
-    "canvaUrl": "",
-    "localImage": "",
-    "longText": "Tamara de Lempicka è una figura significativa della storia dell’arte. Nata nel 1898 e morta nel 1980, fu pittrice Art Déco famosa per ritratti eleganti e geometrici. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
-  },
-  {
     "slug": "kay-sage",
     "name": "Kay Sage",
     "year": "1898",
@@ -781,17 +794,17 @@
     "longText": "Kay Sage è una figura significativa della storia dell’arte. Nata nel 1898 e morta nel 1963, fu pittrice surrealista americana di atmosfere enigmatiche. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
-    "slug": "margarete-heymann",
-    "name": "Margarete Heymann",
-    "year": "1899",
-    "endYear": "1990",
-    "text": "Ceramista e designer legata al Bauhaus e alla ceramica moderna.",
-    "media": "https://upload.wikimedia.org/wikipedia/en/2/2d/Margaret_Marks_nee_Heymann.jpg",
+    "slug": "tamara-de-lempicka",
+    "name": "Tamara de Lempicka",
+    "year": "1898",
+    "endYear": "1980",
+    "text": "Pittrice Art Déco famosa per ritratti eleganti e geometrici.",
+    "media": "https://upload.wikimedia.org/wikipedia/en/c/c7/Tamara_de_Lempicka%2C_Autoportrait_%28Tamara_in_a_Green_Bugatti%29.jpeg",
     "century": "XIX secolo",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Margarete_Heymann",
-    "canvaUrl": "https://canva.link/8zbrt3kzrmqqaii",
-    "localImage": "assets/img/uploaded/65d0a376-a3fe-52dd-b1c0-c3d36fd208c4.jpg",
-    "longText": "Margarete Heymann è una figura significativa della storia dell’arte. Nata nel 1899 e morta nel 1990, fu ceramista e designer legata al Bauhaus e alla ceramica moderna. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tamara_de_Lempicka",
+    "canvaUrl": "",
+    "localImage": "",
+    "longText": "Tamara de Lempicka è una figura significativa della storia dell’arte. Nata nel 1898 e morta nel 1980, fu pittrice Art Déco famosa per ritratti eleganti e geometrici. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
     "slug": "anni-albers",
@@ -818,6 +831,19 @@
     "localImage": "assets/img/uploaded/louise-nevelson-copertina.svg",
     "canvaUrl": "",
     "longText": "Louise Nevelson trasformò frammenti di legno, mobili e oggetti trovati in grandi strutture architettoniche monocrome. Dipingendo tutto di nero, bianco o oro, unificava materiali diversi in rilievi e ambienti che evocano città, altari e teatri. La sua opera contribuì in modo decisivo all’affermazione dell’assemblage e della scultura installativa negli Stati Uniti."
+  },
+  {
+    "slug": "margarete-heymann",
+    "name": "Margarete Heymann",
+    "year": "1899",
+    "endYear": "1990",
+    "text": "Ceramista e designer legata al Bauhaus e alla ceramica moderna.",
+    "media": "https://upload.wikimedia.org/wikipedia/en/2/2d/Margaret_Marks_nee_Heymann.jpg",
+    "century": "XIX secolo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Margarete_Heymann",
+    "canvaUrl": "https://canva.link/8zbrt3kzrmqqaii",
+    "localImage": "assets/img/uploaded/65d0a376-a3fe-52dd-b1c0-c3d36fd208c4.jpg",
+    "longText": "Margarete Heymann è una figura significativa della storia dell’arte. Nata nel 1899 e morta nel 1990, fu ceramista e designer legata al Bauhaus e alla ceramica moderna. Nell’Ottocento le donne entrarono più numerose nel mondo dell’arte, ma continuarono a incontrare ostacoli nell’accesso alle accademie, ai modelli dal vero e alle esposizioni ufficiali. Dall’Impressionismo al Simbolismo e alle prime avanguardie, molte svilupparono linguaggi autonomi e innovativi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
     "slug": "gertrud-arndt",
@@ -866,10 +892,23 @@
     "century": "XX secolo",
     "text": "Pittrice surrealista ispano-messicana, autrice di mondi alchemici e visionari.",
     "source": "https://en.wikipedia.org/wiki/Remedios_Varo",
-    "media": "assets/img/uploaded/remedios-varo-copertina.svg",
-    "localImage": "assets/img/uploaded/remedios-varo-copertina.svg",
+    "media": "assets/img/uploaded/remedios-varo-ritratto.webp",
+    "localImage": "assets/img/uploaded/remedios-varo-ritratto.webp",
     "canvaUrl": "",
     "longText": "Remedios Varo si formò all’Accademia di San Fernando a Madrid e partecipò all’avanguardia surrealista tra Barcellona e Parigi. Rifugiatasi in Messico durante la Seconda guerra mondiale, sviluppò un universo pittorico popolato da viaggiatrici, alchimiste, scienziate e architetture fantastiche. Le sue immagini combinano precisione tecnica, umorismo, esoterismo e riflessione sull’identità femminile."
+  },
+  {
+    "slug": "gertrude-abercrombie",
+    "name": "Gertrude Abercrombie",
+    "year": "1909",
+    "endYear": "1977",
+    "century": "XX secolo",
+    "text": "Pittrice surrealista statunitense, autrice di paesaggi e autoritratti enigmatici.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gertrude_Abercrombie",
+    "media": "assets/img/uploaded/gertrude-abercrombie-ritratto.webp",
+    "localImage": "assets/img/uploaded/gertrude-abercrombie-ritratto.webp",
+    "canvaUrl": "",
+    "longText": "Gertrude Abercrombie sviluppò a Chicago una pittura visionaria e autobiografica. I suoi dipinti presentano paesaggi notturni, stanze vuote, porte, scale, gatti, civette e figure femminili solitarie che spesso assumono le sue stesse sembianze. Vicina ai musicisti jazz della città, trasformò oggetti quotidiani e ricordi personali in immagini enigmatiche, sospese tra sogno, ironia e inquietudine."
   },
   {
     "slug": "dorothea-tanning",
@@ -976,6 +1015,19 @@
     "longText": "Yayoi Kusama è una figura significativa della storia dell’arte. Nata nel 1929, fu artista giapponese contemporanea famosa per pois e installazioni immersive. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
+    "slug": "faith-ringgold",
+    "name": "Faith Ringgold",
+    "year": "1930",
+    "endYear": "2024",
+    "century": "XX secolo",
+    "text": "Artista afroamericana celebre per gli story quilts, tra pittura, tessuto e narrazione.",
+    "source": "https://en.wikipedia.org/wiki/Faith_Ringgold",
+    "media": "assets/img/uploaded/faith-ringgold-copertina.svg",
+    "localImage": "assets/img/uploaded/faith-ringgold-copertina.svg",
+    "canvaUrl": "",
+    "longText": "Faith Ringgold unì pittura, tessuto, scrittura e attivismo politico. Nelle serie American People affrontò razzismo e conflitti sociali degli Stati Uniti; dagli anni Ottanta sviluppò gli story quilts, opere tessili che intrecciano immagini e testi narrativi. Fu anche autrice di libri per ragazzi e promotrice della presenza delle donne nere nei musei e nella storia dell’arte."
+  },
+  {
     "slug": "marisol-escobar",
     "name": "Marisol Escobar",
     "year": "1930",
@@ -1001,19 +1053,6 @@
     "localImage": "assets/img/uploaded/niki-ritratto.jpg",
     "longText": "Niki de Saint Phalle è una figura significativa della storia dell’arte. Nata nel 1930 e morta nel 2002, fu artista franco-americana nota per le coloratissime Nanas. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo.",
     "videoLocal": "assets/video/niki-de-saint-phalle.mp4"
-  },
-  {
-    "slug": "faith-ringgold",
-    "name": "Faith Ringgold",
-    "year": "1930",
-    "endYear": "2024",
-    "century": "XX secolo",
-    "text": "Artista afroamericana celebre per gli story quilts, tra pittura, tessuto e narrazione.",
-    "source": "https://en.wikipedia.org/wiki/Faith_Ringgold",
-    "media": "assets/img/uploaded/faith-ringgold-copertina.svg",
-    "localImage": "assets/img/uploaded/faith-ringgold-copertina.svg",
-    "canvaUrl": "",
-    "longText": "Faith Ringgold unì pittura, tessuto, scrittura e attivismo politico. Nelle serie American People affrontò razzismo e conflitti sociali degli Stati Uniti; dagli anni Ottanta sviluppò gli story quilts, opere tessili che intrecciano immagini e testi narrativi. Fu anche autrice di libri per ragazzi e promotrice della presenza delle donne nere nei musei e nella storia dell’arte."
   },
   {
     "slug": "bridget-riley",
@@ -1133,6 +1172,19 @@
     "longText": "Jenny Holzer è una figura significativa della storia dell’arte. Nata nel 1950, fu artista concettuale nota per testi luminosi e proiezioni urbane. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
+    "slug": "marlene-dumas",
+    "name": "Marlene Dumas",
+    "year": "1953",
+    "endYear": "",
+    "text": "Pittrice contemporanea nota per figure intense e psicologiche.",
+    "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Marlene_Dumas.jpg/1280px-Marlene_Dumas.jpg",
+    "century": "XX secolo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marlene_Dumas",
+    "canvaUrl": "",
+    "localImage": "assets/img/uploaded/17d79e8a-15f8-56e1-aba4-7828a4749edb.jpg",
+    "longText": "Marlene Dumas è una figura significativa della storia dell’arte. Nata nel 1953, fu pittrice contemporanea nota per figure intense e psicologiche. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
+  },
+  {
     "slug": "nan-goldin",
     "name": "Nan Goldin",
     "year": "1953",
@@ -1157,19 +1209,6 @@
     "canvaUrl": "",
     "localImage": "",
     "longText": "Sophie Calle è una figura significativa della storia dell’arte. Nata nel 1953, fu artista francese che intreccia fotografia, testo e investigazione. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
-  },
-  {
-    "slug": "marlene-dumas",
-    "name": "Marlene Dumas",
-    "year": "1953",
-    "endYear": "",
-    "text": "Pittrice contemporanea nota per figure intense e psicologiche.",
-    "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Marlene_Dumas.jpg/1280px-Marlene_Dumas.jpg",
-    "century": "XX secolo",
-    "sourceUrl": "https://en.wikipedia.org/wiki/Marlene_Dumas",
-    "canvaUrl": "",
-    "localImage": "assets/img/uploaded/17d79e8a-15f8-56e1-aba4-7828a4749edb.jpg",
-    "longText": "Marlene Dumas è una figura significativa della storia dell’arte. Nata nel 1953, fu pittrice contemporanea nota per figure intense e psicologiche. Nel Novecento e nella contemporaneità le artiste parteciparono pienamente alle avanguardie e ampliarono i confini dell’arte attraverso pittura, fotografia, tessitura, performance, installazione e arte pubblica. Le loro opere affrontano identità, memoria, corpo, società e politica con linguaggi sempre nuovi. Attraverso il suo lavoro contribuì ad ampliare i temi, le tecniche e le possibilità espressive disponibili alle artiste. La sua esperienza permette oggi di leggere la storia dell’arte in modo più completo, riconoscendo il valore di una ricerca personale che ha saputo affermarsi oltre i limiti culturali e sociali del proprio tempo."
   },
   {
     "slug": "cindy-sherman",

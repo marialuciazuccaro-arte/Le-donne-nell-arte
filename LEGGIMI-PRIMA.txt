@@ -1,20 +1,12 @@
-AGGIORNAMENTO V36 — 20 NUOVE ARTISTE
+AGGIORNAMENTO v37 — 104 ARTISTE
 
-Il sito passa da 81 a 101 artiste.
+Caricare il contenuto di questo archivio nella cartella principale del repository, mantenendo la struttura delle cartelle e sostituendo i file omonimi.
 
-Nuove schede: Judith Leyster, Rachel Ruysch, Käthe Kollwitz, Paula Modersohn-Becker, Hilma af Klint, Hannah Höch, Tarsila do Amaral, Remedios Varo, Augusta Savage, Faith Ringgold, Ana Mendieta, Eva Hesse, Maria Sibylla Merian, Louise Moillon, Michaelina Wautier, Louise Nevelson, Alma Thomas, Carmen Herrera, Sonia Boyce, Zanele Muholi.
+Novità:
+- aggiunte Agnes Pelton, Anita Malfatti e Gertrude Abercrombie;
+- inserite immagini locali per Agnes Pelton, Gertrude Abercrombie e Remedios Varo;
+- aggiornate le informazioni essenziali delle 20 artiste aggiunte nel pacchetto precedente;
+- aggiornati indice, timeline, galleria, pagine dei secoli e file dati;
+- totale complessivo: 104 artiste.
 
-Ogni scheda contiene:
-- biografia e dati essenziali;
-- almeno tre opere con titolo, data e collocazione;
-- spazio per la videopresentazione degli alunni;
-- copertina grafica locale;
-- ricerca automatica delle immagini delle opere su Wikimedia Commons, quando disponibili.
-
-Per ragioni di diritto d’autore, soprattutto per artiste contemporanee, le riproduzioni non vengono copiate nel pacchetto: la pagina cerca immagini disponibili su Wikimedia Commons e mantiene comunque titoli, dati e collegamenti.
-
-Sono stati rigenerati anche indice, home, timeline, galleria, pagine dei secoli e file dati, eliminando i percorsi di immagini corrotti.
-
-NUMERO FILE: il pacchetto contiene meno di 100 file e può essere caricato in un’unica operazione.
-
-ISTRUZIONI: decomprimere e caricare il contenuto dalla radice del repository, mantenendo le cartelle e sostituendo i file esistenti.
+Il pacchetto contiene meno di 100 file.
